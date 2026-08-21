@@ -1,0 +1,107 @@
+\item \textbf{Z. Liu}, M. He, Z. Jiang, Z. Wu, H. Dai, L. Zhang, S. Luo, T. Han, X. Li, X. Jiang, D. Zhu, X. Cai, B. Ge, W. Liu, J. Liu, D. Shen, and T. Liu, ``Survey on natural language processing in medical image analysis,'' \textbf{Journal of Central South University. Medical Sciences}, vol. 47, no. 8, pp. 981-–993, 2022.({\color{cvgreen}Citescore: 3.4, IF: 3.738})
+
+\item \textbf{Z. Liu}, R. J. Crouser, and A. Ottley, ``Survey on Individual Differences in Visualization,'' \textbf{Computer Graphics Forum}, vol. 39, pp. 693-–712, 2020.({\color{cvgreen}Citescore: 6.0, IF: 2.9})
+
+\item \textbf{Z. Liu}, Y. Li, P. Shu, A. Zhong, H. Jiang, Y. Pan, L. Yang, C. Ju, Z. Wu, C. Ma, C. Chen, S. Kim, H. Dai, L. Zhao, L. Sun, D. Zhu, J. Liu, W. Liu, D. Shen, Q. Li, T. Liu, and X. Li, ``Radiology-GPT: a large language model for radiology,'' \textbf{Meta-Radiology}, pp. 100153, Elsevier, 2025.({\color{cvgreen}Citescore: 10.2, IF: 18.26}) 
+
+\item \textbf{Z. Liu}, L. Zhang, Z. Wu, X. Yu, C. Cao, H. Dai, N. Liu, J. Liu, W. Liu, Q. Li, D. Shen, X. Li, D. Zhu, and T. Liu, ``Surviving ChatGPT in healthcare,'' \textbf{Frontiers in Radiology}, vol. 3, 1224682, 2024.({\color{cvgreen}Citescore: 3.0, IF: 2.3}) 
+
+\item P. Wang*, \textbf{Z. Liu*}, Y. Li, J. M. Holmes, P. Shu, L. Zhang, X. Li, Q. Li, S. A. Vora, S. H. Patel, T. T. Sio, T. Liu, and W. Liu, ``Fine-tuning large language models for radiation oncology, a highly specialized healthcare domain,'' \textbf{International Journal of Particle Therapy}, vol. 12, p. 100428, 2024.({\color{cvgreen}Citescore: 4.5, IF: 2.0})
+
+\item H. Dai*, \textbf{Z. Liu*}, W. Liao, X. Huang, Y. Cao, Z. Wu, L. Zhao, S. Xu, W. Liu, N. Liu, and T. Liu, "AugGPT: Leveraging ChatGPT for text data augmentation," \textbf{IEEE Transactions on Big Data}, vol. 10, no. 1, pp. 123–135, Feb. 2024.({\color{cvgreen}Citescore: 15.3, IF: 5.7})
+
+\item J. Wang*, \textbf{Z. Liu*}, L. Zhao, Z. Wu, C. Ma, S. Yu, H. Dai, Q. Yang, Y. Liu, S. Zhang, E. Shi, Y. Pan, T. Zhang, D. Zhu, X. Li, X. Jiang, B. Ge, Y. Yuan, D. Shen, T. Liu, and S. Zhang, ``Review of large vision models and visual prompt engineering,'' \textbf{Meta-Radiology}, vol. 1, no. 3, pp. 100047, Elsevier, 2023.({\color{cvgreen}Citescore: 10.2, IF: 18.26}) 
+
+\item W. Liao*, \textbf{Z. Liu*}, Y. Zhang, X. Huang, N. Liu, T. Liu, Q. Li, X. Li, and H. Cai, ``Zero-shot relation triplet extraction as Next-Sentence Prediction,'' \textbf{Knowledge-Based Systems}, vol. 304, pp. 112507, 2024.({\color{cvgreen}Citescore: 15.0, IF: 7.6})
+
+\item S. Rezayi*, \textbf{Z. Liu*}, Z. Wu, C. Dhakal, B. Ge, H. Dai, G. Mai, N. Liu, C. Zhen, T. Liu, and S. Li, ``Exploring new frontiers in agricultural nlp: Investigating the potential of large language models for food applications,'' \textbf{IEEE Transactions on Big Data}, 2024.({\color{cvgreen}Citescore: 15.3, IF: 5.7})
+
+\item C. Liu*, \textbf{Z. Liu*}, J. Holmes, L. Zhang, L. Zhang, Y. Ding, P. Shu, Z. Wu, H. Dai, Y. Li, D. Shen, N. Liu, Q. Li, X. Li, D. Zhu, T. Liu, and W. Liuu, ``Artificial general intelligence for radiation oncology,'' \textbf{Meta-Radiology}, vol. 1, no. 3, pp. 100045, Elsevier, 2023.({\color{cvgreen}Citescore: 10.2, IF: 18.26}) 
+
+\item Y. Ding*, \textbf{Z. Liu*}, H. Feng, J. Holmes, Y. Yang, N. Yu, T. Sio, S. Schild, B. Li, and W. Liu, ``Accurate and efficient deep neural network based deformable image registration method in lung cancer,'' \textbf{Medical Physics}, vol. 49, no. 6, pp. E148--E148, 2022.({\color{cvgreen}Citescore: 6.4, IF: 3.2}) 
+
+\item L. Zhang*, \textbf{Z. Liu*}, L. Zhang, Z. Wu, X. Yu, J. Holmes, H. Feng, H. Dai, X. Li, Q. Li, W. W. Wong, S. A. Vora, D. Zhu, T. Liu, and W. Liu, ``Generalizable and promptable artificial intelligence model to augment clinical delineation in radiation oncology,'' \textbf{Medical Physics}, vol. 51, no. 3, pp. 2187-–2199, 2024.({\color{cvgreen}Citescore: 6.4, IF: 3.2}) 
+
+\item W. Liao*, \textbf{Z. Liu*}, H. Dai, Z. Wu, Y. Zhang, X. Huang, Y. Chen, X. Jiang, D. Liu, D. Zhu, S. Li, W. Liu, T. Liu, Q. Li, H. Cai, and X. Li, ``Mask-guided BERT for few-shot text classification,'' \textbf{Neurocomputing}, vol. 610, article 128576, Elsevier, 2024.({\color{cvgreen}Citescore: 13.6, IF: 6.5}) 
+
+\item J. Holmes*, \textbf{Z. Liu*}, L. Zhang, Y. Ding, T. T. Sio, L. A. McGee, J. B. Ashman, X. Li, T. Liu, J. Shen, and W. Liu, ``Evaluating large language models on a highly-specialized topic, radiation oncology physics,'' \textit{Frontiers in Oncology}, vol. 13, pp. 1219326, 2023.({\color{cvgreen}Citescore: 6.9, IF: 3.3}) 
+
+\item W. Liao*, \textbf{Z. Liu*}, H. Dai, S. Xu, Z. Wu, Y. Zhang, X. Huang, D. Zhu, H. Cai, Q. Li, T. Liu, and X. Li, ``Differentiating ChatGPT-generated and human-written medical texts: quantitative study,'' \textbf{JMIR Medical Education}, vol. 9, no. 1, pp. e48904, JMIR Publications Inc., Toronto, Canada, 2023.({\color{cvgreen}Citescore: 5.0, IF: 3.6})
+
+\item P. Wang*, \textbf{Z. Liu*}, Y. Li, J. Holmes, P. Shu, L. Zhang, X. Li, Q. Li, B. S. Laughlin, D. S. Toesca, C. E. Vargas, S. A. Vora, S. H. Patel, T. T. Sio, T. Liu, W. Liu, ``Fine‐tuning open‐source large language models to improve their performance on radiation oncology tasks: A feasibility study to investigate their potential clinical applications,'' \textbf{Medical Physics}, vol. 52, no. 7, e17985, 2025.({\color{cvgreen}Citescore: 6.4, IF: 3.2})
+
+\item Z. Xing*, \textbf{Z. Liu*}, D.-F. Zhang, K. Xie, J. Fang, X.-A. Bi, and T. Liu, "Alzheimer's Disease Risk Prediction via Perceptual Deformable Attention Generative Adversarial Network with Large Foundation Models," submitted to \textbf{Medical Image Analysis}, 2025, \textit{Under Review}. ({\color{cvgreen}Citescore: 26.6, IF: 11.8})     
+
+\item C. Yan, J. Bi, Y. Luo, Y. Ma, \textbf{Z. Liu}, Z. Wu, L. Zhao, S. Xu, L. Wei, S. Huang, H. Wang, Y. Pan, B. Liao, Y. Huang, J. Xia, M. He, Z. Wang, Z. Lin, C. Slaughter, H. Zhu, Y. Zhang, Q. Qu, X. Zhang, G. Li, S. Ju, J. Huang, S. S. Zhang, D. Zhou, R. J. Fu, L. Sun, P. S. Yu, W. Liu, J. Gao, X. Li, D. Zhu, T. Liu, and D. Shen, ``A generalist vision–language foundation model for diverse biomedical tasks,'' \textbf{Nature Medicine}, vol. 30, no. 9, pp. 2658–2671, Sep. 2024.({\color{cvgreen}Citescore: 82.4, IF: 50.0})
+
+\item Y. Liu, T. Han, S. Ma, J. Zhang, Y. Yang, J. Tian, H. He, A. Li, M. He, \textbf{Z. Liu}, Z. Wu, L. Zhao, D. Zhu, X. Li, N. Qiang, D. Shen, T. Liu, and B. Ge, ``Summary of ChatGPT-related research and perspective towards the future of large language models,'' \textbf{Meta-radiology}, vol. 1, no. 2, p. 100017, Sep. 2023.({\color{cvgreen}Citescore: 10.2, IF: 18.26}) 
+
+\item Z. Wu, L. Zhao, L. Wei, J. Lin, \textbf{Z. Liu}, L. Guo, L. Dai, D. Wu, F. Zhu, S. Zhang, D. Zhu, X. Li, and T. Liu, ``Large language models for robotics: Opportunities, challenges, and perspectives,'' \textbf{Journal of Automation and Intelligence}, vol. 4, no. 1, pp. 52–64, Jan. 2025.({\color{cvgreen}Citescore: 4.4, IF: 5.48})
+
+\item J. Wang, E. Shi, S. Yu, Z. Wu, H. Hu, C. Ma, H. Dai, Q. Yang, Y. Kang, J. Wu, C. Yue, H. Zhang, Y. Liu, Y. Pan, \textbf{Z. Liu}, L. Sun, X. Li, B. Ge, X. Jiang, Y. Yuan, D. Shen, T. Liu, and S. Zhang, ``Prompt engineering for healthcare: Methodologies and applications,'' \textbf{Meta-Radiology}, pp. 100190, Elsevier, 2025.({\color{cvgreen}Citescore: 10.2, IF: 18.26}) 
+
+\item Y. Liu, H. He, T. Han, X. Zhang, M. Liu, J. Tian, Y. Zhang, J. Wang, X. Gao, T. Zhong, Y. Pan, S. Xu, Z. Wu, \textbf{Z. Liu}, X. Zhang, S. Zhang, X. Hu, T. Zhang, N. Qiang, T. Liu, and B. Ge, ``Understanding llms: A comprehensive overview from training to inference,'' \textbf{Neurocomputing}, vol. 620, pp. 129190, Elsevier, 2025.({\color{cvgreen}Citescore: 13.6, IF: 6.5}) 
+
+\item C. Chen, J. Miao, D. Wu, A. Zhong, Z. Yan, S. Kim, J. Hu, \textbf{Z. Liu}, L. Sun, X. Li, T. Liu, P. A. Heng, and Q. Li, ``Ma-sam: Modality-agnostic sam adaptation for 3d medical image segmentation,'' \textbf{Medical Image Analysis}, vol. 98, pp. 103310, Elsevier, 2024. ({\color{cvgreen}Citescore: 26.6, IF: 11.8}) 
+
+\item C. Ma, Z. Wu, J. Wang, S. Xu, Y. Wei, \textbf{Z. Liu}, F. Zeng, X. Jiang, L. Guo, X. Cai, S. Zhang, T. Zhang, D. Zhu, D. Shen, T. Liu, and X. Li, ``An iterative optimizing framework for radiology report summarization with ChatGPT,'' \textbf{IEEE Transactions on Artificial Intelligence}, vol. 5, no. 8, pp. 4163-–4175, IEEE, 2024.({\color{cvgreen}Citescore: 6.4, IF: 6.73}) 
+
+\item G. Lee, L. Shi, E. Latif, Y. Gao, A. Bewersdorff, M. Nyaaba, S. Guo, \textbf{Z. Liu}, G. Mai, T. Liu, and X. Zhai, ``Multimodality of ai for education: Towards artificial general intelligence,'' \textbf{IEEE Transactions on Learning Technologies}, IEEE, 2025.({\color{cvgreen}Citescore: 7.4, IF: 5.72}) 
+
+\item Z. Wu, L. Zhang, C. Cao, X. Yu, \textbf{Z. Liu}, L. Zhao, Y. Li, H. Dai, C. Ma, G. Li, W. Liu, Q. Li, D. Shen, X. Li, D. Zhu, and T. Liu, ``Exploring the trade-offs: Unified large language models vs local fine-tuned models for highly-specific radiology nli task,'' \textbf{IEEE Transactions on Big Data}, IEEE, 2025.({\color{cvgreen}Citescore: 15.3, IF: 5.7})
+
+\item H. Dai, Y. Li, \textbf{Z. Liu}, L. Zhao, Z. Wu, S. Song, S. Ye, D. Zhu, X. Li, S. Li, X. Yao, L. Shi, T. Q. Peng, Q. Li, Z. Chen, D. Zhang, T. Liu, and G. Mai, ``Ad-autogpt: An autonomous gpt for alzheimer’s disease infodemiology,'' \textbf{PLOS Global Public Health}, vol. 5, no. 5, e0004383, 2025.({\color{cvgreen}Citescore: 2.6, IF: 2.5})
+
+\item X. A. Bi, K. Chen, S. Jiang, S. Luo, W. Zhou, Z. Xing, L. Xu, \textbf{Z. Liu}, and T. Liu, ``Community graph convolution neural network for alzheimer’s disease classification and pathogenetic factors identification,'' \textbf{IEEE Transactions on Neural Networks and Learning Systems}, vol. 36, no. 2, pp. 1959-–1973, IEEE, 2023.({\color{cvgreen}Citescore: 24.7, IF: 8.9})
+
+\item T. Zhong, Y. Pan, Y. Zhang, Y. Wei, L. Yang, \textbf{Z. Liu}, X. Wei, W. Li, J. Yao, C. Ma, X. Jiang, D. Shen, J. Han, and T. Zhang, ``Chatabl: Abductive learning via natural language interaction with chatgpt,'' \textbf{IEEE Transactions on Neural Networks and Learning Systems}, IEEE, 2025.({\color{cvgreen}Citescore: 24.7, IF: 8.9})
+
+\item Y. Zhang, Y. Pan, T. Zhong, P. Dong, K. Xie, Y. Liu, H. Jiang, Z. Wu, \textbf{Z. Liu}, W. Zhao, W. Zhang, S. Zhao, T. Zhang, X. Jiang, D. Shen, T. Liu, and X. Zhang, ``Potential of multimodal large language models for data mining of medical images and free-text reports,'' \textbf{Meta-Radiology}, vol. 2, no. 4, pp. 100103, 2024.({\color{cvgreen}Citescore: 10.2, IF: 18.26})  
+
+\item Y. Ding, H. Feng, Y. Yang, J. Holmes, \textbf{Z. Liu}, D. Liu, W. W. Wong, N. Y. Yu, T. T. Sio, S. E. Schild, B. Li, and W. Liu, ``Deep‐learning based fast and accurate 3D CT deformable image registration in lung cancer,'' \textbf{Medical Physics}, vol. 50, no. 11, pp. 6864-–6880, 2023.({\color{cvgreen}Citescore: 6.4, IF: 3.2}) 
+
+\item N. Qiang, J. Gao, Q. Dong, H. Yue, H. Liang, L. Liu, J. Yu, J. Hu, S. Zhang, B. Ge, Y. Sun, \textbf{Z. Liu}, T. Liu, J. Li, H. Song, S. Zhao, ``Functional brain network identification and fMRI augmentation using a VAE-GAN framework,'' \textbf{Computers in Biology and Medicine}, vol. 165, p. 107395, 2023.({\color{cvgreen}Citescore: 13.0, IF: 7.0}) 
+
+\item N. Qiang, J. Gao, Q. Dong, J. Li, S. Zhang, H. Liang, Y. Sun, B. Ge, \textbf{Z. Liu}, Z. Wu, T. Liu, H. Yue, S. Zhao, ``A deep learning method for autism spectrum disorder identification based on interactions of hierarchical brain networks,'' \textbf{Behavioural Brain Research}, vol. 452, p. 114603, 2023.({\color{cvgreen}Citescore: 5.5, IF: 2.3}) 
+
+\item S. Zhang, E. Shi, L. Wu, R. Wang, S. Yu, \textbf{Z. Liu}, S. Xu, T. Liu, S. Zhao, ``Differentiating brain states via multi-clip random fragment strategy-based interactive bidirectional recurrent neural network,'' \textbf{Neural Networks}, vol. 165, pp. 1035–-1049, 2023.({\color{cvgreen}Citescore: 10.6, IF: 6.3}) 
+
+\item Z. Xiao, Y. Chen, J. Yao, L. Zhang, \textbf{Z. Liu}, Z. Wu, X. Yu, Y. Pan, L. Zhao, C. Ma, X. Liu, W. Liu, X. Li, Y. Yuan, D. Shen, D. Zhu, D. Yao, T. Liu, X. Jiang, ``Instruction-vit: Multi-modal prompts for instruction learning in vision transformer,'' \textbf{Information Fusion}, vol. 104, 102204, 2024.({\color{cvgreen}Citescore: 24.1, IF: 15.5}) 
+
+\item J. Holmes, L. Zhang, Y. Ding, H. Feng, \textbf{Z. Liu}, T. Liu, W. W. Wong, S. A. Vora, J. B. Ashman, and W. Liu, ``Benchmarking a foundation large language model on its ability to relabel structure names in accordance with the american association of physicists in medicine task group-263 report,'' \textbf{Practical Radiation Oncology}, vol. 14, no. 6, pp. e515-–e521, 2024.({\color{cvgreen}Citescore: 5.4, IF: 3.5}) 
+
+\item L. Zhao, Z. Wu, H. Dai, \textbf{Z. Liu}, X. Hu, T. Zhang, D. Zhu, and T. Liu, ``A generic framework for embedding human brain function with temporally correlated autoencoder,'' \textbf{Medical Image Analysis}, vol. 89, pp. 102892, 2023.({\color{cvgreen}Citescore: 26.6, IF: 11.8}) 
+
+\item X. A. Bi, Z. Yang, Y. Huang, Z. Xing, L. Xu, Z. Wu, \textbf{Z. Liu}, X. Li, and T. Liu, ``CE-GAN: Community evolutionary generative adversarial network for Alzheimer’s disease risk prediction,'' \textbf{IEEE Transactions on Medical Imaging}, vol. 43, no. 11, pp. 3663-–3675, 2024.({\color{cvgreen}Citescore: 18.3, IF: 9.8}) 
+
+\item X. A. Bi, Y. Huang, Z. Yang, K. Chen, Z. Xing, L. Xu, X. Li, \textbf{Z. Liu}, and T. Liu, ``Structure mapping generative adversarial network for multi-view information mapping pattern mining,'' \textbf{IEEE Transactions on Pattern Analysis and Machine Intelligence}, vol. 46, no. 4, pp. 2252-–2266, 2023.({\color{cvgreen}Citescore: 36.6, IF: 21.9}) 
+
+\item S. Kim, P. Jin, C. Chen, K. Kim, Z. Lyu, H. Ren, S. Kim, \textbf{Z. Liu}, A. Zhong, T. Liu, X. Li, and Q. Li, ``MediViSTA: Medical Video Segmentation via Temporal Fusion SAM Adaptation for Echocardiography,'' \textbf{IEEE Journal of Biomedical and Health Informatics}, 2025.({\color{cvgreen}Citescore: 13.6, IF: 6.7}) 
+
+\item X. Zhao, H. Huang, T. Yang, Y. Lu, L. Zhang, R. Wang, \textbf{Z. Liu}, T. Zhong, and T. Liu, ``Urban planning in the age of large language models: Assessing OpenAI o1's performance and capabilities across 556 tasks,'' \textbf{Computers, Environment and Urban Systems}, vol. 121, 102332, 2025.({\color{cvgreen}Citescore: 16.6, IF: 8.3}) 
+
+\item J. Chen, Y. Yang, H. Feng, L. Zhang, \textbf{Z. Liu}, T. Liu, C. E. Vargas, N. Y. Yu, J. M. Rwigema, S. R. Keole, S. H. Patel, S. A. Vora, J. Shen, and W. Liu, ``Robust optimization for spot-scanning proton therapy based on dose-linear-energy-transfer volume constraints,'' \textbf{International Journal of Radiation Oncology, Biology, Physics}, vol. 121, no. 5, pp. 1303–-1315, 2025.({\color{cvgreen}Citescore: 10.9, IF: 6.5}) 
+
+\item Y. Liu, E. Ge, M. He, \textbf{Z. Liu}, S. Zhao, X. Hu, N. Qiang, D. Zhu, T. Liu, and B. Ge, ``Mapping dynamic spatial patterns of brain function with spatial-wise attention,'' \textbf{Journal of Neural Engineering}, vol. 21, no. 2, pp. 026005, 2024.({\color{cvgreen}Citescore: 7.8, IF: 3.8})
+
+\item T. Zhong, W. Zhao, Y. Zhang, Y. Pan, P. Dong, Z. Jiang, H. Jiang, Y. Zhou, X. Kui, Y. Shang, L. Zhao, L. Yang, Y. Wei, Z. Li, J. Zhang, L. Yang, H. Chen, H. Zhao, Y. Liu, N. Zhu, Y. Li, Y. Wang, J. Yao, J. Wang, Y. Zeng, L. He, C. Zheng, Z. Zhang, M. Li, \textbf{Z. Liu}, H. Dai, Z. Wu, L. Zhang, S. Zhang, X. Cai, X. Hu, S. Zhao, X. Jiang, X. Zhang, W. Liu, X. Li, D. Zhu, L. Guo, D. Shen, J. Han, T. Liu, J. Liu, T. Zhang, ``ChatRadio-Valuer: A Chat Large Language Model for Generalizable Radiology Impression Generation on Multi-Institution and Multi-System Data,'' \textbf{IEEE Transactions on Biomedical Engineering}, 2025.({\color{cvgreen}Citescore: 9.6, IF: 4.5})
+
+\item L. Zhao, L. Zhang, Z. Wu, Y. Chen, H. Dai, X. Yu, \textbf{Z. Liu}, T. Zhang, X. Hu, and X. Jiang, ``When brain-inspired ai meets agi,'' \textbf{Meta-Radiology}, vol. 1, no. 1, pp. 100005, Elsevier, 2023.({\color{cvgreen}Citescore: 10.2, IF: 18.26})   
+
+\item X. Li, L. Zhao, L. Zhang, Z. Wu, \textbf{Z. Liu}, H. Jiang, C. Cao, S. Xu, Y. Li, H. Dai, Y. Yuan, J. Liu, G. Li, D. Zhu, P. Yan, Q. Li, W. Liu, T. Liu, and D. Shen, ``Artificial general intelligence for medical imaging analysis,'' \textbf{IEEE Reviews in Biomedical Engineering}, IEEE, 2024.({\color{cvgreen}Citescore: 43.2, IF: 12.0}) 
+
+\item L. Zhang, J. M. Holmes, \textbf{Z. Liu}, S. A. Vora, T. T. Sio, C. E. Vargas, N. Y. Yu, S. R. Keole, S. E. Schild, M. Bues, S. Li, T. Liu, J. Shen, W. W. Wong, and W. Liu, ``Beam mask and sliding window‐facilitated deep learning‐based accurate and efficient dose prediction for pencil beam scanning proton therapy,'' \textbf{Medical Physics}, vol. 51, no. 2, pp. 1484-–1498, 2024.({\color{cvgreen}Citescore: 6.4, IF: 3.2}) 
+
+\item X. Gong, J. Zhang, Q. Gan, Y. Teng, J. Hou, Y. Lyu, \textbf{Z. Liu}, Z. Wu, R. Dai, Y. Zou, X. Wang, D. Zhu, H. Zhu, T. Liu, and Y. Yan, ``Advancing microbial production through artificial intelligence-aided biology,'' \textbf{Biotechnology Advances}, vol. 74, 2024, p. 108399.({\color{cvgreen}Citescore: 24.6, IF: 12.5}) 
+
+\item Ruan, W., Lyu, Y., Zhang, J., Cai, J., Shu, P., Ge, Y., Lu, Y., Gao, S., Wang, Y., Wang, P., Zhao, L., Wang, T., Liu, Y., Fang, L., \textbf{Liu, Z.}, Li, Y., Wu, Z., Chen, J., Jiang, H., Pan, Y., Yang, Z., Chen, J., Liang, S., Zhang, W., Ma, T., Dou, Y., Zhang, J., Gong, X., Gan, Q., Zou, Y., Chen, Z., Qian, Y., Yu, S., Lu, J., Song, K., Wang, X., Sikora, A., Li, G., Li, X., Li, Q., Wang, Y., Zhang, L., Abate, Y., He, L., Zhong, W., Liu, R., Huang, C., Liu, W., Shen, Y., Ma, P., Zhu, H., Yan, Y., Zhu, D., Liu, T., ``Large language models for bioinformatics,'' \textbf{Quantitative Biology}, vol. 14, no. 1, e70014, 2026.({\color{cvgreen}Citescore: 2, IF: 1.4}) 
+
+\item Fang, L., Yu, X., Cai, J., Chen, Y., Wu, S., \textbf{Liu, Z.}, Yang, Z., Lu, H., Gong, X., Liu, Y., Ma, T., Ruan, W., Abbasi, A., Zhang, J., Wang, T., Latif, E., Liu, W., Zhang, W., Kolouri, S., Zhai, X., Zhu, D., Zhong, W., Liu, T., Ma, P., ``Knowledge distillation and dataset distillation of large language models: Emerging trends, challenges, and future directions,'' \textbf{Artificial Intelligence Review}, vol. 59, no. 1, 17, 2026.({\color{cvgreen}Citescore: 15.0, IF: 4.6}) 
+
+\item P. Wang, J. Holmes, \textbf{Z. Liu}, D. Chen, T. Liu, J. Shen, and W. Liu, ``A recent evaluation on the performance of LLMs on radiation oncology physics using questions of randomly shuffled options,'' \textbf{Frontiers in Oncology}, vol. 15, p. 1557064, 2025.({\color{cvgreen}Citescore: 6.9, IF: 3.3}) 
+
+\item J. Chen, Y. Yang, H. Feng, C. Liu, L. Zhang, J. M. Holmes, \textbf{Z. Liu}, H. Lin, T. Liu, C. B. Simone, N. Y. Lee, S. J. Frank, D. J. Ma, S. H. Patel, and W. Liu, ``Enabling clinical use of linear energy transfer in proton therapy for head and neck cancer–A review of implications for treatment planning and adverse events study,'' \textbf{Visualized Cancer Medicine}, vol. 6, p. 3, 2025.({\color{cvgreen}Citescore: 2.3}) 
+
+\item Y. Wu, X. Gao, \textbf{Z. Liu}, P. Wang, Z. Wu, Y. Li, T. Zhang, T. Liu, T. Liu, and X. Li, ``Decoding cortical folding patterns in marmosets using machine learning and large language model,'' \textbf{NeuroImage}, Vol. 308, 2025.({\color{cvgreen}Citescore: 10.8, IF: 4.5}) 
+
+\item Y. Sun, M. A. Dalton, R. D. Sanders, \textbf{Z. Liu}, M. Cabezas, Y. Yuan, X. Li, T. Liu, S. L. Naismith, F. Calamante and J. Lv ``Age Sensitive Hippocampal Functional Connectivity: New Insights from 3D CNNs and Saliency Mapping,'' submitted to \textbf{IEEE Transactions on Medical Imaging}, 2025, \textit{Under Review}.({\color{cvgreen}Citescore:18.8, IF: 9.8}) 

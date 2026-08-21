@@ -1,0 +1,37 @@
+\item \textbf{Z. Liu}, X. He, L. Liu, T. Liu, and X. Zhai, ``Context matters: A strategy to pre-train language model for science education,'' in \textbf{Proceedings of the International Conference on Artificial Intelligence in Education(AIED)}, pp. 666-–674, Springer Nature Switzerland, 2023.({\color{cvgreen}Acceptance rate: 21.11\%})   
+
+\item \textbf{Z. Liu}, A. Zhong, Y. Li, L. Yang, C. Ju, Z. Wu, C. Ma, P. Shu, C. Chen, S. Kim, H. Dai, L. Zhao, D. Zhu, J. Liu, W. Liu, D. Shen, Q. Li, T. Liu, and X. Li, ``Tailoring large language models to radiology: A preliminary approach to llm adaptation for a highly specialized domain,'' in \textbf{Proceedings of the International Workshop on Machine Learning in Medical Imaging(MLMI)}, Springer Nature Switzerland, pp. 464–-473, 2023.({\color{cvgreen}Acceptance rate: 11.11\%})
+
+\item S. Rezayi*, \textbf{Z. Liu*}, Z. Wu, C. Dhakal, B. Ge, C. Zhen, T. Liu, and S. Li, ``AgriBERT: Knowledge-Infused Agricultural Language Models for Matching Food and Nutrition,'' in \textbf{Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI)}, 2022.({\color{cvgreen}Acceptance rate: 14.97\%})
+
+\item W. Liao*, \textbf{Z. Liu*}, Y. Zhang, X. Huang, F. Qi, S. Ding, H. Ren, Z. Wu, H. Dai, S. Li, L. Wu, N. Liu, Q. Li, T. Liu, X. Li, and H. Cai, ``Coarse-to-fine knowledge graph domain adaptation based on distantly-supervised iterative training,'' \textbf{2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)}, 2023, pp. 1294-–1299.({\color{cvgreen}Acceptance rate: 19.5\%})
+
+\item M. Bancilhon*, \textbf{Z. Liu*}, and A. Ottley, ``Let’s gamble: How a poor visualization can elicit risky behavior,'' in \textbf{2020 IEEE Visualization Conference (VIS)}, pp. 196-–200, 2020.({\color{cvgreen}Acceptance rate: 25.4\%})
+
+\item P. Wang*, \textbf{Z. Liu*}, Y. Li, J. M. Holmes, P. Shu, L. Zhang, X. Li, Q. Li, S. A. Vora, S. H. Patel, T. T. Sio, T. Liu, and W. Liu, ``Fine-tuning large language models for radiation oncology, a highly specialized healthcare domain,'' \textbf{AAPM 66th Annual Meeting \& Exhibition}, 2024.({\color{cvgreen}Acceptance rate: 45.0\%})
+
+\item Y. Liu*, \textbf{Z. Liu*}, Z. Wu, J. Ning, H. Sun, S. Xia, Y. Yang, X. Gao, N. Qiang, B. Ge, T. Liu, J. Han, and X. Hu, ``Brain-Inspired Exploration of Functional Networks and Key Neurons in Large Language Models,'' submitted to \textbf{Annual Meeting of the Association for Computational Linguistics (ACL)}, 2026, \textit{Under Review}.({\color{cvgreen}Acceptance rate: 33.0\%})
+
+\item S. Rezayi*, H. Dai*, \textbf{Z. Liu*}, Z. Wu, A. Hebbar, A. H. Burns, L. Zhao, D. Zhu, X. Li, Q. Li, W. Liu, S. Li, and T. Liu, ``ClinicalRadioBERT: Knowledge-Infused Few Shot Learning for Clinical Notes Named Entity Recognition,'' in \textbf{Proceedings of the 13th International Workshop on Machine Learning in Medical Imaging(MLMI)}, 2022.({\color{cvgreen}Acceptance rate: 12.0\%})
+
+\item Y. Huang, L. Sun, H. Wang, S. Wu, Q. Zhang, Y. Li, C. Gao, Y. Huang, W. Lyu, Y. Zhang, X. Li, H. Sun, \textbf{Z. Liu}, Y. Liu, Y. Wang, Z. Zhang, B. Vidgen, B. Kailkhura, C. Xiong, C. Xiao, C. Li, E. P. Xing, F. Huang, H. Liu, H. Ji, H. Wang, H. Zhang, H. Yao, M. Kellis, M. Zitnik, M. Jiang, M. Bansal, J. Zou, J. Pei, J. Liu, J. Gao, J. Han, J. Zhao, J. Tang, J. Wang, J. Vanschoren, J. Mitchell, K. Shu, K. Xu, K. Chang, L. He, L. Huang, M. Backes, N. Z. Gong, P. S. Yu, P. Chen, Q. Gu, R. Xu, R. Ying, S. Ji, S. Jana, T. Chen, T. Liu, T. Zhou, W. Y. Wang, X. Li, X. Zhang, X. Wang, X. Xie, X. Chen, X. Wang, Y. Liu, Y. Ye, Y. Cao, Y. Chen, and Y. Zhao, ``Trustllm: Trustworthiness in large language models,'' \textbf{Proceedings of the International Conference on Machine Learning (ICML)}, pp. 20166-–20270, PMLR, 2024.({\color{cvgreen}Acceptance rate: 30.50\%}) 
+
+\item Y. Shi, S. Xu, T. Yang, \textbf{Z. Liu}, T. Liu, X. Li, N. Liu, ``Mkrag: Medical knowledge retrieval augmented generation for medical question answering,'' \textbf{Annual Symposium Proceedings(AMIA)}, vol. 2024, p. 1011, 2025.({\color{cvgreen}Acceptance rate: 10.0\%}) 
+
+\item C. Ma, H. Jiang, W. Chen, Y. Li, Z. Wu, X. Yu, \textbf{Z. Liu}, L. Guo, D. Zhu, T. Zhang, D. Shen, T. Liu, and X. Li, ``Eye-gaze guided multi-modal alignment for medical representation learning,'' \textbf{Advances in Neural Information Processing Systems}, vol. 37, pp. 6126-–6153, 2024.({\color{cvgreen}Acceptance rate: 27.0\%})
+
+\item L. Zhao, Z. Wu, H. Dai, \textbf{Z. Liu}, T. Zhang, D. Zhu, and T. Liu, ``Embedding human brain function via transformer,'' in \textbf{International Conference on Medical Image Computing and Computer-Assisted Intervention(MICCAI)}, Springer Nature Switzerland, pp. 366-–375, 2022.({\color{cvgreen}Acceptance rate: 30.0\%})
+
+\item M. Zhou, X. Liu, D. Liu, Z. Wu, \textbf{Z. Liu}, L. Zhao, D. Zhu, L. Guo, J. Han, T. Liu, and X. Hu, ``Fine-grained artificial neurons in audio-transformers for disentangling neural auditory encoding,'' \textbf{Findings of the Association for Computational Linguistics (ACL)}, pp. 7943–-7956, 2023.({\color{cvgreen}Acceptance rate: 36.54\%})
+
+\item H. Cai, X. Huang, \textbf{Z. Liu}, W. Liao, H. Dai, Z. Wu, D. Zhu, H. Ren, Q. Li, T. Liu, and X. Li, ``Multimodal approaches for alzheimer’s detection using patients’ speech and transcript,'' \textbf{International Conference on Brain Informatics}, Springer Nature Switzerland, pp. 395-–406, 2023.({\color{cvgreen}Acceptance rate: 32.0\%})
+
+\item H. Dai, Q. Li, L. Zhao, L. Pan, C. Shi, \textbf{Z. Liu}, Z. Wu, L. Zhang, S. Zhao, X. Wu, T. Liu, and D. Zhu, ``Graph representation neural architecture search for optimal spatial/temporal functional brain network decomposition,'' \textbf{International Workshop on Machine Learning in Medical Imaging(MLMI)}, Springer Nature Switzerland, pp. 279–-287, 2022.({\color{cvgreen}Acceptance rate: 12.0\%})
+
+\item Y. Pan, H. Jiang, J. Chen, Y. Li, H. Zhao, Y. Zhou, P. Shu, Z. Wu, \textbf{Z. Liu}, D. Zhu, X. Li, Y. Abate, T. Liu, “EG-SpikeFormer: Eye-gaze guided transformer on spiking neural networks for medical image analysis,” in \textbf{2025 IEEE 22nd International Symposium on Biomedical Imaging (ISBI)}, pp. 1–-5, 2025.({\color{cvgreen}Acceptance rate: 40.0\%})
+
+\item Y. Wei, T. Zhang, H. Zhang, T. Zhong, L. Zhao, \textbf{Z. Liu}, C. Ma, S. Zhang, M. Shang, L. Du, X. Li, T. Liu, and J. Han, ``Chat2brain: A method for mapping open-ended semantic queries to brain activation maps,'' \textbf{2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)}, pp. 1523–-1530, 2023.({\color{cvgreen}Acceptance rate: 19.5\%})
+
+\item Q. Li, H. Dai, J. Lv, L. Zhao, \textbf{Z. Liu}, Z. Wu, X. Wu, C. Coles, X. Hu, T. Liu, and D. Zhu, ``Individual Functional Network Abnormalities Mapping via Graph Representation-Based Neural Architecture Search,'' \textbf{International Conference on Advanced Data Mining and Applications(ADMA)}, pp 79–91, 2023.({\color{cvgreen}Acceptance rate: 42.9\%})
+
+\item Y. Li, Y. Pan, J. Chen, Y. Zhou, H. Jiang, H. Zhao, Y. Lyu, \textbf{Z. Liu}, L. Zhao, D. Zhu, X. Li, and T. Liu, ``MEDQUA: A NISQ-Aware Quantum Adapter for Medical Vision-Language Models,'' in \textbf{2026 IEEE 23rd International Symposium on Biomedical Imaging (ISBI)}, 2026.({\color{cvgreen}Acceptance rate: 20.3\%})

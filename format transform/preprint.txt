@@ -1,0 +1,99 @@
+\item \textbf{Z. Liu}, Y. Li, P. Shu, A. Zhong, L. Yang, C. Ju, Z. Wu, C. Ma, J. Luo, C. Chen, S. Kim, J. Hu, H. Dai, L. Zhao, D. Zhu, J. Liu, W. Liu, D. Shen, T. Liu, Q. Li, and X. Li, ``\href{https://arxiv.org/abs/2309.06419}{Radiology-llama2: Best-in-class large language model for radiology},'' arXiv preprint arXiv:2309.06419, 2023.
+
+\item \textbf{Z. Liu}, T. Zhong, Y. Li, Y. Zhang, Y. Pan, Z. Zhao, P. Dong, C. Cao, Y. Liu, P. Shu, Y. Wei, Z. Wu, C. Ma, J. Wang, S. Wang, M. Zhou, Z. Jiang, C. Li, J. Holmes, S. Xu, L. Zhang, H. Dai, K. Zhang, L. Zhao, Y. Chen, X. Liu, P. Wang, P. Yan, J. Liu, B. Ge, L. Sun, D. Zhu, X. Li, W. Liu, X. Cai, X. Hu, X. Jiang, S. Zhang, X. Zhang, T. Zhang, S. Zhao, Q. Li, H. Zhu, D. Shen, and T. Liu, ``\href{https://arxiv.org/abs/2307.13693}{Evaluating large language models for radiology natural language processing},'' arXiv preprint arXiv:2307.13693, 2023.
+
+\item \textbf{Z. Liu}, P. Wang, Y. Li, J. Holmes, P. Shu, L. Zhang, C. Liu, N. Liu, D. Zhu, X. Li, Q. Li, S. H. Patel, T. T. Sio, T. Liu, and W. Liu, ``\href{https://arxiv.org/abs/2309.10160}{Radonc-gpt: A large language model for radiation oncology},'' arXiv preprint arXiv:2309.10160, 2023.
+
+\item \textbf{Z. Liu}, H. Jiang, T. Zhong, Z. Wu, C. Ma, Y. Li, X. Yu, Y. Zhang, Y. Pan, P. Shu, Y. Lyu, L. Zhang, J. Yao, P. Dong, C. Cao, Z. Xiao, J. Wang, H. Zhao, S. Xu, Y. Wei, J. Chen, H. Dai, P. Wang, H. He, Z. Wang, X. Wang, X. Zhang, L. Zhao, Y. Liu, K. Zhang, L. Yan, L. Sun, J. Liu, N. Qiang, B. Ge, X. Cai, S. Zhao, X. Hu, Y. Yuan, G. Li, S. Zhang, X. Zhang, X. Jiang, T. Zhang, D. Shen, Q. Li, W. Liu, X. Li, D. Zhu, and T. Liu, ``\href{https://arxiv.org/abs/2312.05256}{Holistic evaluation of gpt-4v for biomedical imaging},'' arXiv preprint arXiv:2312.05256, 2023.
+
+\item \textbf{Z. Liu}, Z. Wu, M. Hu, B. Zhao, L. Zhao, T. Zhang, H. Dai, X. Chen, Y. Shen, S. Li, Q. Li, X. Li, B. Murray, T. Liu, and A. Sikora, ``\href{https://arxiv.org/abs/2307.10432}{Pharmacygpt: The ai pharmacist},'' arXiv preprint arXiv:2307.10432, 2023.
+
+\item \textbf{Z. Liu}, Y. Li, Q. Cao, J. Chen, T. Yang, Z. Wu, J. Hale, J. Gibbs, K. Rasheed, N. Liu, G. Mai, and T. Liu, ``\href{https://arxiv.org/abs/2310.19626}{Transformation vs tradition: Artificial general intelligence (AGI) for arts and humanities},'' arXiv preprint arXiv:2310.19626, 2023.
+
+\item \textbf{Z. Liu}, Y. Huang, X. Yu, L. Zhang, Z. Wu, C. Cao, H. Dai, L. Zhao, Y. Li, P. Shu, F. Zeng, L. Sun, W. Liu, D. Shen, Q. Li, T. Liu, D. Zhu, and X. Li, ``\href{https://arxiv.org/abs/2303.11032}{DeID-GPT: zero-shot medical text de-identification by GPT-4. arXiv},'' arXiv preprint arXiv:2303.11032, 2023.
+
+\item \textbf{Z. Liu}, Y. Li, O. Zolotarevych, R. Yang, and T. Liu, ``\href{https://arxiv.org/abs/2409.08147}{Llm-potus score: A framework of analyzing presidential debates with large language models},'' arXiv preprint arXiv:2409.08147, 2024.
+
+\item \textbf{Z. Liu}, J. Holmes, W. Liao, C. Liu, L. Zhang, H. Feng, P. Wang, M. A. Elahi, H. Cai, L. Sun, Q. Li, X. Li, T. Liu, J. Shen, and W. Liu, ``\href{https://arxiv.org/abs/2401.10995}{The radiation oncology NLP database},'' arXiv preprint arXiv:2401.10995, 2024.
+
+\item H. Zhao*, \textbf{Z. Liu*}, Z. Wu, Y. Li, T. Yang, P. Shu, S. Xu, H. Dai, L. Zhao, H. Jiang, Y. Pan, J. Chen, Y. Zhou, Z. Zhang, R. Sun, G. Mai, N. Liu, and T. Liu, ``\href{https://arxiv.org/abs/2401.11641}{Revolutionizing finance with llms: An overview of applications and insights},'' arXiv preprint arXiv:2401.11641, 2024.
+
+\item T. Zhong*, \textbf{Z. Liu*}, Y. Pan, Y. Zhang, Y. Zhou, S. Liang, Z. Wu, Y. Lyu, P. Shu, X. Yu, C. Cao, H. Jiang, H. Chen, Y. Li, J. Chen, H. Hu, Y. Liu, H. Zhao, S. Xu, H. Dai, L. Zhao, R. Zhang, W. Zhao, Z. Yang, J. Chen, P. Wang, W. Ruan, H. Wang, H. Zhao, J. Zhang, Y. Ren, S. Qin, T. Chen, J. Li, A. H. Zidan, A. Jahin, M. Chen, S. Xia, J. Holmes, Y. Zhuang, J. Wang, B. Xu, W. Xia, J. Yu, K. Tang, Y. Yang, B. Sun, T. Yang, G. Lu, X. Wang, L. Chai, H. Li, J. Lu, L. Sun, X. Zhang, B. Ge, X. Hu, L. Zhang, H. Zhou, L. Zhang, S. Zhang, N. Liu, B. Jiang, L. Kong, Z. Xiang, Y. Ren, J. Liu, X. Jiang, Y. Bao, W. Zhang, X. Li, G. Li, W. Liu, D. Shen, A. Sikora, X. Zhai, D. Zhu, and T. Liu, ``\href{https://arxiv.org/abs/2409.18486}{Evaluation of openai o1: Opportunities and challenges of agi},'' arXiv preprint arXiv:2409.18486, 2024.
+
+\item H. Dai*, \textbf{Z. Liu*}, W. Liao, X. Huang, Z. Wu, L. Zhao, W. Liu, N. Liu, S. Li, D. Zhu, H. Cai, Q. Li, D. Shen, T. Liu, and X. Li, ``\href{https://arxiv.org/abs/2302.13007}{Chataug: Leveraging chatgpt for text data augmentation},'' arXiv preprint arXiv:2302.13007, vol. 1, no. 2, 2023.
+
+\item C. Tang*, \textbf{Z. Liu*}, C. Ma, Z. Wu, Y. Li, W. Liu, D. Zhu, Q. Li, X. Li, T. Liu, and L. Fan, ``\href{https://arxiv.org/abs/2309.10238}{PolicyGPT: Automated analysis of privacy policies with large language models},'' arXiv preprint arXiv:2309.10238, 2023.
+
+\item L. Zhang*, \textbf{Z. Liu*}, L. Zhang, Z. Wu, X. Yu, J. Holmes, H. Feng, H. Dai, X. Li, Q. Li, D. Zhu, T. Liu, and W. Liu, ``\href{https://arxiv.org/abs/2306.11730}{Segment anything model (sam) for radiation oncology},'' arXiv preprint arXiv:2306.11730, 2023.
+
+\item W Liao*, \textbf{Z Liu*}, H Dai, S Xu, Z Wu, Y Zhang, X Huang, D Zhu, H Cai, T Liu, ``\href{https://arxiv.org/abs/2304.11567}{Differentiate chatgpt-generated and human-written medical texts. arXiv 2023},'' arXiv preprint arXiv:2304.11567, 2023.
+
+\item Z. Yang*, \textbf{Z. Liu*}, J. Zhang, C. Lu, J. Tai, T. Zhong, Y. Li, S. Zhao, T. Yao, Q. Liu, J. Yang, Q. Liu, Z. Li, K. Wang, L. Ma, D. Zhu, Y. Ren, B. Ge, W. Zhang, N. Qiang, T. Zhang, and T. Liu, ``\href{https://arxiv.org/abs/2410.18142}{Analyzing nobel prize literature with large language models},'' arXiv preprint arXiv:2410.18142, 2024.
+
+\item M. Bancilhon*, \textbf{Z. Liu*}, A. Ottley, ``\href{https://arxiv.org/abs/1910.09725}{Let's Gamble: Uncovering the Impact of Visualization on Risk Perception and Decision-Making},'' arXiv preprint arXiv:1910.09725, 2019.
+
+\item K. Zhang, J. Yu, Z. Yan, E. Adhikarla, R. Zhou, Z. Yan, Y. Liu, \textbf{Z. Liu}, L. He, B. Davison, X. Li, H. Ren, S. Fu, J. Zou, W. Liu, J. Huang, C. Chen, Y. Zhou, T. Liu, X. Chen, Y. Chen, Q. Li and H. Liu, ``\href{https://arxiv.org/vc/arxiv/papers/2305/2305.17100v3.pdf}{Biomedgpt: A unified and generalist biomedical generative pre-trained transformer for vision, language, and multimodal tasks},'' arXiv preprint arXiv:2305.17100, vol. 3, May 2023. 
+
+\item J. Wang, H. Jiang, Y. Liu, C. Ma, X. Zhang, Y. Pan, M. Liu, P. Gu, S. Xia, W. Li, Y. Zhang, Z. Wu, \textbf{Z. Liu}, T. Zhong, B. Ge, T. Zhang, N. Qiang, X. Hu, X. Jiang, X. Zhang, W. Zhang, D. Shen, T. Liu, and S. Zhang, ``\href{https://arxiv.org/abs/2408.01319}{A comprehensive review of multimodal large language models: Performance and challenges across different tasks},'' arXiv preprint arXiv:2408.01319, 2024.
+
+\item H. Dai, C. Ma, Z. Yan, \textbf{Z. Liu}, E. Shi, Y. Li, P. Shu, X. Wei, L. Zhao, Z. Wu, F. Zeng, D. Zhu, W. Liu, Q. Li, L. Sun, S. Zhang, T. Liu, and X. Li, ``\href{https://arxiv.org/abs/2307.01187}{Samaug: Point prompt augmentation for segment anything model},'' arXiv preprint arXiv:2307.01187, 2023.
+
+\item F. Dou, J. Ye, G. Yuan, Q. Lu, W. Niu, H. Sun, L. Guan, G. Lu, G. Mai, N. Liu, J. Lu, \textbf{Z. Liu}, Z. Wu, C. Tan, S. Xu, X. Wang, G. Li, L. Chai, S. Li, J. Sun, H. Sun, Y. Shao, C. Li, T. Liu, and W. Song, ``\href{https://arxiv.org/abs/2309.07438}{Towards artificial general intelligence (agi) in the internet of things (iot): Opportunities and challenges},'' arXiv preprint arXiv:2309.07438, 2023.
+
+\item S. Mukherjee, P. Gamble, M. S. Ausin, N. Kant, K. Aggarwal, N. Manjunath, D. Datta, \textbf{Z. Liu}, J. Ding, S. Busacca, C. Bianco, S. Sharma, R. Lasko, M. Voisard, S. Harneja, D. Filippova, G. Meixiong, K. Cha, A. Youssefi, M. Buvanesh, H. Weingram, S. Bierman-Lytle, H. S. Mangat, K. Parikh, S. Godil, and A. Miller, ``\href{https://arxiv.org/abs/2403.13313}{Polaris: A safety-focused llm constellation architecture for healthcare},'' arXiv preprint arXiv:2403.13313, 2024.
+
+\item T. Zhong, Z. Yang, \textbf{Z. Liu}, R. Zhang, Y. Liu, H. Sun, Y. Pan, Y. Li, Y. Zhou, H. Jiang, J. Chen, and T. Liu, ``\href{https://arxiv.org/abs/2412.04497}{Opportunities and challenges of large language models for low-resource languages in humanities research},'' arXiv preprint arXiv:2412.04497, 2024.
+
+\item Y. Li, H. Zhao, H. Jiang, Y. Pan, \textbf{Z. Liu}, Z. Wu, P. Shu, J. Tian, T. Yang, S. Xu, Y. Lyu, P. Blenk, J. Pence, J. Rupram, E. Banu, N. Liu, L. Wang, W. Song, X. Zhai, K. Song, D. Zhu, B. Li, X. Wang, and T. Liu, ``\href{https://arxiv.org/abs/2410.21418}{Large language models for manufacturing},'' arXiv preprint arXiv:2410.21418, 2024.
+
+\item S. Xu, Z. Wu, H. Zhao, P. Shu, \textbf{Z. Liu}, W. Liao, S. Li, A. Sikora, T. Liu, and X. Li, ``\href{https://arxiv.org/abs/2402.11398}{Reasoning before comparison: LLM-enhanced semantic similarity metrics for domain specialized text analysis},'' arXiv preprint arXiv:2402.11398, 2024.
+
+\item Z. Guan, Z. Wu, \textbf{Z. Liu}, D. Wu, H. Ren, Q. Li, X. Li, and N. Liu, ``\href{https://arxiv.org/abs/2307.11346}{Cohortgpt: An enhanced gpt for participant recruitment in clinical study},'' arXiv preprint arXiv:2307.11346, 2023.
+
+\item C. Tan, Q. Cao, Y. Li, J. Zhang, X. Yang, H. Zhao, Z. Wu, \textbf{Z. Liu}, H. Yang, N. Wu, T. Tang, X. Ye, L. Chai, N. Liu, C. Li, L. Mu, T. Liu, and G. Mai, ``\href{https://arxiv.org/abs/2312.17016}{On the promises and challenges of multimodal foundation models for geographical, environmental, agricultural, and urban planning applications},'' arXiv preprint arXiv:2312.17016, 2023.
+
+\item J. Tian, J. Hou, Z. Wu, P. Shu, \textbf{Z. Liu}, Y. Xiang, B. Gu, N. Filla, Y. Li, N. Liu, X. Chen, K. Tang, T. Liu, and X. Wang, ``\href{https://arxiv.org/abs/2401.12983}{Assessing large language models in mechanical engineering education: A study on mechanics-focused conceptual understanding},'' arXiv preprint arXiv:2401.12983, 2024.
+
+\item E. Latif, Y. Zhou, S. Guo, Y. Gao, L. Shi, M. Nayaaba, G. Lee, L. Zhang, A. Bewersdorff, L. Fang, X. Yang, H. Zhao, H. Jiang, H. Lu, J. Li, J. Yu, W. You, \textbf{Z. Liu}, V. S. Liu, H. Wang, Z. Wu, J. Lu, F. Dou, P. Ma, N. Liu, T. Liu, and X. Zhai, ``\href{https://arxiv.org/abs/2410.21287}{A systematic assessment of openai o1-preview for higher order thinking in education},'' arXiv preprint arXiv:2410.21287, 2024.
+
+\item H. Zhao, Q. Ling, Y. Pan, T. Zhong, J.-Y. Hu, J. Yao, F. Xiao, Z. Xiao, Y. Zhang, S.-H. Xu, S.-N. Wu, M. Kang, Z. Wu, \textbf{Z. Liu}, X. Jiang, T. Liu, Y. Shao, ``\href{https://arxiv.org/abs/2312.04906}{Ophtha-llama2: A large language model for ophthalmology},'' arXiv preprint arXiv:2312.04906, 2023.
+
+\item S. Xu, Y. Zhou, \textbf{Z. Liu}, Z. Wu, T. Zhong, H. Zhao, Y. Li, H. Jiang, Y. Pan, J. Chen, J. Lu, W. Zhang, T. Zhang, L. Zhang, D. Zhu, X. Li, W. Liu, Q. Li, A. Sikora, X. Zhai, Z. Xiang, and T. Liu,  ``\href{https://arxiv.org/abs/2411.14461}{Towards next-generation medical agent: How o1 is reshaping decision-making in medical scenarios},'' arXiv preprint arXiv:2411.14461, 2024.
+    
+\item Y. Lyu, Z. Wu, L. Zhang, J. Zhang, Y. Li, W. Ruan, \textbf{Z. Liu}, X. Yu, C. Cao, T. Chen, M. Chen, Y. Zhuang, X. Li, R. Liu, C. Huang, W. Li, T. Liu, and D. Zhu, ``\href{https://arxiv.org/abs/2409.09825}{Gp-gpt: Large language model for gene-phenotype mapping},'' arXiv preprint arXiv:2409.09825, 2024.
+
+\item P. Shu, J. Chen, \textbf{Z. Liu}, H. Wang, Z. Wu, T. Zhong, Y. Li, H. Zhao, H. Jiang, Y. Pan, Y. Zhou, C. Owl, X. Zhai, N. Liu, C. Saunt, and T. Liu, ``\href{https://arxiv.org/abs/2411.11295}{Transcending language boundaries: Harnessing llms for low-resource language translation},'' arXiv preprint arXiv:2411.11295, 2024.
+
+\item Y. Shi, P. Shu, \textbf{Z. Liu}, Z. Wu, Q. Li, T. Liu, N. Liu, and X. Li, ``\href{https://arxiv.org/abs/2408.11848}{Mgh radiology llama: A llama 3 70b model for radiology},'' arXiv preprint arXiv:2408.11848, 2024.
+
+\item J. Holmes, R. Peng, Y. Li, J. Hu, \textbf{Z. Liu}, Z. Wu, H. Zhao, X. Jiang, W. Liu, H. Wei, J. Zou, T. Liu, and Y. Shao, ``\href{https://arxiv.org/abs/2311.04368}{Evaluating multiple large language models in pediatric ophthalmology},'' arXiv preprint arXiv:2311.04368, 2023.
+
+\item Y. Liu, E. Ge, M. He, \textbf{Z. Liu}, S. Zhao, X. Hu, D. Zhu, T. Liu, and B. Ge, ``\href{https://arxiv.org/abs/2205.09576}{Discovering dynamic functional brain networks via spatial and channel-wise attention},'' arXiv preprint arXiv:2205.09576, 2022.
+
+\item H. Jiang, Y. Pan, J. Chen, \textbf{Z. Liu}, Y. Zhou, P. Shu, Y. Li, H. Zhao, S. Mihm, L. C. Howe, and T. Liu, ``\href{https://arxiv.org/abs/2411.17837}{Oraclesage: Towards unified visual-linguistic understanding of oracle bone scripts through cross-modal knowledge fusion},'' arXiv preprint, November 26, 2024, arXiv:2411.17837.
+
+\item S. Shankar, Y. Pan, H. Jiang, \textbf{Z. Liu}, M. R. Darbandi, A. Lorenzo, J. Chen, M. M. Hasan, A. H. Zidan, E. Gelman, J. A. Konfrst, J. Y. Russell, K. Fernandes, T. Yang, Y. Li, H. Zhao, A. Jahin, T. Ganguly, S. Dinesha, Y. Zhou, Z. Wu, X. Li, L. Adusumilli, A. Hussein, S. Nookarapu, J. Hou, K. Jiang, J. Li, B. Heinel, X. Xi, H. Hubbard, Z. Khan, L. Whitaker, I. Cao, M. Allgaier, A. Darby, L. Zhao, L. Zhang, X. Wang, X. Li, W. Zhang, X. Yu, D. Zhu, Y. Abate, T. Liu, ``\href{https://arxiv.org/abs/2507.10722}{Bridging brains and machines: A unified frontier in neuroscience, artificial intelligence, and neuromorphic systems},'' arXiv preprint arXiv:2507.10722, 2025.
+
+\item P. Shu, H. Zhao, H. Jiang, Y. Li, S. Xu, Y. Pan, Z. Wu, \textbf{Z. Liu}, G. Lu, L. Guan, G. Chen, X. Wang, and T. Liu, ``\href{https://arxiv.org/abs/2402.06116}{Llms for coding and robotics education},'' arXiv preprint, February 9, 2024, arXiv:2402.06116.
+
+\item J. Wang, H. Zhao, Z. Yang, P. Shu, J. Chen, H. Sun, R. Liang, S. Li, P. Shi, L. Ma, Z. Liu, \textbf{Z. Liu}, T. Zhong, Y. Zhang, C. Ma, X. Zhang, T. Zhang, T. Ding, Y. Ren, T. Liu, X. Jiang, and S. Zhang, ``\href{https://arxiv.org/abs/2411.10137}{Legal evalutions and challenges of large language models},'' arXiv preprint, November 15, 2024, arXiv:2411.10137.
+
+\item H. Dai, L. Zhang, L. Zhao, Z. Wu, \textbf{Z. Liu}, D. Liu, X. Yu, Y. Lyu, C. Li, N. Liu, T. Liu, and D. Zhu, ``\href{https://arxiv.org/abs/2307.04343}{Hierarchical semantic tree concept whitening for interpretable image classification},'' arXiv preprint arXiv:2307.04343, 2023.
+
+\item X. Gong, J. Holmes, Y. Li, \textbf{Z. Liu}, Q. Gan, Z. Wu, J. Zhang, Y. Zou, Y. Teng, T. Jiang, H. Zhu, W. Liu, T. Liu, and Y. Yan, ``\href{https://arxiv.org/abs/2311.07582}{Evaluating the potential of leading large language models in reasoning biology questions},'' arXiv preprint arXiv:2311.07582, 2023.
+
+\item H. Lu, L. Fang, R. Zhang, X. Li, J. Cai, H. Cheng, L. Tang, Z. Liu, Z. Sun, T. Wang, Y. Zhang, A. H. Zidan, J. Xu, J. Yu, M. Yu, H. Jiang, X. Gong, W. Luo, B. Sun, Y. Chen, T. Ma, S. Wu, Y. Zhou, J. Chen, H. Xiang, J. Zhang, A. Jahin, W. Ruan, K. Deng, Y. Pan, P. Wang, J. Li, \textbf{Z. Liu}, L. Zhang, L. Zhao, W. Liu, D. Zhu, X. Xing, F. Dou, W. Zhang, C. Huang, R. Liu, M. Zhang, Y. Liu, X. Sun, Q. Lu, Z. Xiang, W. Zhong, T. Liu, and P. Ma, ``\href{https://arxiv.org/abs/2507.19672}{Alignment and safety in large language models: Safety mechanisms, training paradigms, and emerging challenges},'' arXiv preprint arXiv:2507.19672, 2025.
+
+\item Z. Liu, L. Tang, Z. Sun, \textbf{Z. Liu}, Y. Lyu, W. Ruan, Y. Xu, L. Shan, J. Shin, X. Chen, D. Zhu, T. Liu, R. Liu, and C. Huang, ``\href{https://arxiv.org/abs/2504.03071}{AD-GPT: Large Language Models in Alzheimer's Disease},'' arXiv preprint arXiv:2504.03071, 2025.
+
+\item Y. Li, Z. Wu, H. Zhao, T. Yang, \textbf{Z. Liu}, P. Shu, J. Sun, R. Parasuraman, and T. Liu, ``\href{https://arxiv.org/abs/2403.11459}{Aldm-grasping: Diffusion-aided zero-shot sim-to-real transfer for robot grasping},'' arXiv preprint arXiv:2403.11459, 2024.
+
+\item Z. Yang, X. Lin, Q. He, Z. Huang, \textbf{Z. Liu}, H. Jiang, P. Shu, Z. Wu, Y. Li, S. Law, G. Mai, T. Liu, T. Yang, ``\href{https://arxiv.org/abs/2408.12821}{Examining the commitments and difficulties inherent in multimodal foundation models for street view imagery},'' arXiv preprint arXiv:2408.12821, 2024.
+
+\item P. Shu, J. Chen, \textbf{Z. Liu}, H. Zhao, X. Li, T. Liu, ``\href{https://arxiv.org/abs/2506.19019}{Survey of HPC in US Research Institutions},'' arXiv preprint arXiv:2506.19019, 2025.
+
+\item Y. Shi, S. Xu, \textbf{Z. Liu}, T. Liu, X. Li, and N. Liu, ``\href{https://ar5iv.labs.arxiv.org/html/2309.16035}{Mededit: Model editing for medical question answering with external knowledge bases},'' CoRR, 2023.
+
+\item C. Ma, H. Jiang, W. Chen, Y. Li, Z. Wu, X. Yu, \textbf{Z. Liu}, L. Guo, D. Zhu, T. Zhang, D. Shen, T. Liu, and X. Li, ``\href{https://arxiv.org/abs/2403.12416}{Eye-gaze guided multi-modal alignment framework for radiology},'' CoRR, 2024. 
+
+\item A. Most, M. Hu, H. Yang, T. Liu, X. Chen, S. Li, S. Xu, \textbf{Z. Liu}, and A. Sikora, ``\href{https://www.medrxiv.org/content/10.1101/2024.03.21.24304667v1}{Evaluating Accuracy and Reproducibility of Large Language Model Performance in Pharmacy Education},'', medRxiv, 2024.
