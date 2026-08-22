@@ -1,5 +1,12 @@
 # 🔥 News
 ## 2026
+- *2026.07*: One paper on Large language models for manufacturing is accepted by **Journal of Manufacturing**.
+- *2026.06*: One paper on Causal machine learning is accepted by **npj Digital Medicine**.
+- *2026.05*: One paper about Alzheimer’s disease risk prediction is accepted by **Medical Image Analysis**.
+- *2026.05*: One paper about Large language models in Alzheimer’s disease is accepted by **BMC Medical Informatics and Decision Making**.
+- *2026.04*: One paper on Vibe Medicine is accepted by **Meta-Radiology**.
+- *2026.04*: One paper on Physics enhances generalizability is accepted by **Medical physics**.
+- *2026.03*: One paper about A NISQ-Aware Quantum Adapter for Medical Vision–Language Models is accepted by **ISBI**.
 - *2026.02*: One paper on Quantum Artificial Intelligence is accepted by **Meta-Radiology**.
 - *2026.01*: Invited to serve as a Program Committee Member for the **International Conference on Artificial Intelligence in Education (AIED)**.
 - *2026.01*: One paper on Large language models for bioinformatics will appear in **Quantitative Biology**.
