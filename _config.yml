@@ -9,7 +9,7 @@
 title                    : "Zhengliang Liu"
 description              : "A Ph.D. student from University of Georgia"
 repository               : "zl-liu/zl-liu.github.io"
-baseurl                  : "/zl-liu.github.io"
+baseurl                  : ""
 google_scholar_stats_use_cdn : true
 
 # # google analytics
