@@ -3,6 +3,17 @@
 
 
 ## Journals
+- ``Medical physics`` L.Zhang, JM.Holmes, X.Zhang, **Z.Liu**, H.Feng, M.Li, TT.Sio, CE.Vargas, SR.Keole, K.Stützer, S.Li, T.Liu, J.Shen, WW.Wong, SA.Vora, W.Liu. Noisy probing dose facilitated dose prediction for pencil beam scanning proton therapy: Physics enhances generalizability. *Medical physics*, 2026.
+
+- ``Meta-Radiology`` Q.Zhang, Y.Ren, S.Qin, X.Zhang, L.Zhang, J.Huang, **Z Liu**, C Liu, H Feng, J.Chen, Y.Ding, W.You, H.Jiang, Y.Pan, Y.Zhou, J.Chen, L.Chen, W.Liu, T.Liu, Z.Zhao, L.Zhang. Toward Vibe Medicine: A Self-Evolving Multi-Agent Framework for Clinical Decision Support. *Meta-Radiology*, 2026.
+
+- ``BioMed Central`` **Z.Liu**, L.Tang, Z.Sun, Z.Liu, Y.Lyu, W.Ruan, Y.Xu, L.Shan, J.Shin, X.Chen, D.Zhu, T.Liu, R.Liu, and C.Huang. AD-GPT: Large language models in Alzheimer’s disease. *BioMed Central*, 2026.
+
+- ``Journal of Manufacturing Systems 86`` Y. Li, H. Zhao, H. Jiang, Y. Pan, **Z. Liu**, Z. Wu, P. Shu, J. Tian, T. Yang, S. Xu, Y. Lyu, P. Blenk, J. Pence, J. Rupram, E. Banu, N. Liu, L. Wang, W. Song, X. Zhai, K. Song, D. Zhu, B. Li, X. Wang, and T. Liu. Large language models for manufacturing. *Journal of Manufacturing Systems 86*, 2026.
+
+- ``Medical Image Analysis`` Z. Xing*, **Z. Liu***, D.-F. Zhang, K. Xie, J. Fang, X.-A. Bi, and T. Liu. Alzheimer's Disease Risk Prediction via Perceptual Deformable Attention Generative Adversarial Network with Large Foundation Models. *Medical Image Analysis*, 2026.
+
+- ``npj Digital Medicine`` J. Chen, Y. Yang, O. M. Muller, L. Zeng, **Z. Liu**, T. Liu, R. L. Foote, D. J. Ma, S. H. Patel, Z. Liu, and W. Liu. Causal machine learning for exploring radiation dose effects on mandibular osteoradionecrosis. *npj Digital Medicine*, 2026.
 
 - ``Journal of Central South University. Medical Sciences`` **Z. Liu**, M. He, Z. Jiang, Z. Wu, H. Dai, L. Zhang, S. Luo, T. Han, X. Li, X. Jiang, D. Zhu, X. Cai, B. Ge, W. Liu, J. Liu, D. Shen, and T. Liu. Survey on natural language processing in medical image analysis. *Journal of Central South University. Medical Sciences*, 2022.
 
@@ -159,6 +170,13 @@
 
 
 # Pre-prints
+- J.Chen, Y.Yang, OM.Muller, L.Zeng, **Z.Liu**, T.Liu, W.Liu. [Age-Dependent Causal Effects of Mandibular Dose on Osteoradionecrosis Risk After Head and Neck Radiotherapy](https://europepmc.org/article/med/41675357), arXiv: 2602.06212 v1-arXiv: 2602.06212 v1, 2026.
+- Y.Li, Z.Wu, Y.Lv, H.Jiang, W.You, **Z.Liu**, D.Zhu, X.Li, Q.Li, T.Liu, L.Zhao. [Thinking with Gaze: Sequential Eye-Tracking as Visual Reasoning Supervision for Medical VLMs](https://arxiv.org/abs/2603.06697), arXiv preprint arXiv:2603.06697, 2026.
+- W.Yang, **Z.Liu**, Y.Li, B.Yan, L.Li, M.He, D.Wojtczak, Y.Zheng, D.Shi. [Empowering locally deployable medical agent via state enhanced logical skills for FHIR-based clinical tasks](https://arxiv.org/abs/2603.06902), arXiv preprint arXiv:2603.06902, 2026.
+- Y.Ding, J.Holmes, Y.Hao, **Z.Liu**, P.Wang, J.Cui, M.Cao, C.Jiang, S.Wei, L.Zhao, C.Liu, L.Zhang, Y.Yang, T.Liu, W.Liu. [Applications of Large Language Models in Radiation Oncology: From Workflow Automation to Clinical Intelligence](https://arxiv.org/abs/2604.03509), arXiv preprint arXiv:2604.03509, 2026.
+- AH Zidan, Y Pan, H Jiang, R Yan, W Ruan, Z Wu, L Chen, W You, X Li, B.Chen, H.Hu, P.Wang, S.Liu, J.Zhang, S.Li, **Z.Liu**, Y.Bao, L.Zhao, L.Sun, D.Zhu, X.Li, J.Lv, Q.Li, W.Liu, T.Liu, W.Zhang. [World Models: A Comprehensive Survey of Architectures, Methodologies, Reasoning Paradigms, and Applications](https://arxiv.org/abs/2606.00133), arXiv preprint arXiv:2606.00133, 2026.
+- S Li, P Shu, C Yu, P Wang, R Zhang, B Guo, X Li, R Yan, AH Zidan, Y Pan, W.Ruan, L.Chen, J.Chen, Z.Ding, Y.Li, **Z.Liu**, H.Dai, L.Zhao, Y.Bao, X.Li, W.Zhang, T.Liu. [ASTELD: A Six-Axis Classification Framework for Autonomous AI Agents - Design, Evaluation, and an OpenClaw Case Study](https://arxiv.org/abs/2608.05201), arXiv preprint arXiv:2608.05201, 2026.
+- S.Li, P.Shu, C.Yu, P.Wang, R.Zhang, B.Guo, X.Li, R.Yan, A.Zidan, Y.Pan, W.Ruan, L.Chen, J.Chen, Z.Ding, Y.Li, **Z.Liu**, H.Dai, L.Zhao, Y.Bao, X.Li, W.Zhang, and T.Liu. [The Rise of Autonomous AI Agents: A Comprehensive Survey of OpenClaw—Architecture, Security, Ecosystem, and Beyond](https://doi.org/10.21203/rs.3.rs-10596296/v1), 2026.
 - **Z. Liu**, Y. Li, P. Shu, A. Zhong, L. Yang, C. Ju, Z. Wu, C. Ma, J. Luo, C. Chen, S. Kim, J. Hu, H. Dai, L. Zhao, D. Zhu, J. Liu, W. Liu, D. Shen, T. Liu, Q. Li, and X. Li. [Radiology-llama2: Best-in-class large language model for radiology](https://arxiv.org/abs/2309.06419), arXiv preprint arXiv:2309.06419, 2023.
 - **Z. Liu**, T. Zhong, Y. Li, Y. Zhang, Y. Pan, Z. Zhao, P. Dong, C. Cao, Y. Liu, P. Shu, Y. Wei, Z. Wu, C. Ma, J. Wang, S. Wang, M. Zhou, Z. Jiang, C. Li, J. Holmes, S. Xu, L. Zhang, H. Dai, K. Zhang, L. Zhao, Y. Chen, X. Liu, P. Wang, P. Yan, J. Liu, B. Ge, L. Sun, D. Zhu, X. Li, W. Liu, X. Cai, X. Hu, X. Jiang, S. Zhang, X. Zhang, T. Zhang, S. Zhao, Q. Li, H. Zhu, D. Shen, and T. Liu. [Evaluating large language models for radiology natural language processing](https://arxiv.org/abs/2307.13693), arXiv preprint arXiv:2307.13693, 2023.
 - **Z. Liu**, P. Wang, Y. Li, J. Holmes, P. Shu, L. Zhang, C. Liu, N. Liu, D. Zhu, X. Li, Q. Li, S. H. Patel, T. T. Sio, T. Liu, and W. Liu. [Radonc-gpt: A large language model for radiation oncology](https://arxiv.org/abs/2309.10160), arXiv preprint arXiv:2309.10160, 2023.
