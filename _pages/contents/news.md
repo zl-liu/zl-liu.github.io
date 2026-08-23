@@ -19,7 +19,7 @@
 - *2025.03*: Our paper “Robust Optimization for Spot-Scanning Proton Therapy” is accepted by **International Journal of Radiation Oncology, Biology, Physics (IJROBP)**.
 - *2025.02*: One paper on PharmacyGPT is published in **BMC Medical Informatics and Decision Making**.
 - *2025.01*: Our work on Fine-tuning open-source large language models on radiation oncology tasks is accepted by **Medical Physics**.
-- 
+
 ## 2024
 - *2024.12*: Our paper “Eye-gaze guided multi-modal alignment for medical representation learning” is accepted by the **NeurIPS** conference in Vancouver.
 - *2024.09*: Officially started the GENIUS Center (National Center on Generative AI for Uplifting STEM+C Education), funded by **IES** with a total award of **$10M**.
