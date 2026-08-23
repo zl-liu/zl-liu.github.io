@@ -2,6 +2,7 @@
 ## 2026
 - *2026.07*: One paper on Large language models for manufacturing is accepted by **Journal of Manufacturing**.
 - *2026.06*: One paper on Causal machine learning is accepted by **npj Digital Medicine**.
+- *2026.05*: I received my **Ph.D.** in Computer Science from the University of Georgia
 - *2026.05*: One paper about Alzheimer’s disease risk prediction is accepted by **Medical Image Analysis**.
 - *2026.05*: One paper about Large language models in Alzheimer’s disease is accepted by **BMC Medical Informatics and Decision Making**.
 - *2026.04*: One paper on Vibe Medicine is accepted by **Meta-Radiology**.
