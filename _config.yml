@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhengliang Liu"
-description              : "Ph.D. in Computer Science"
+description              : "Computer Scientist specializing in Large Language Models and AI for Healthcare"
 repository               : "zl-liu/zl-liu.github.io"
 baseurl                  : ""
 google_scholar_stats_use_cdn : true
@@ -24,12 +24,12 @@ google_scholar_stats_use_cdn : true
 author:
   name             : "Zhengliang Liu"
   avatar           : "/images/avatar.png"
-  bio              : "Computer Scientist | Large Language Models and AI for Healthcare"
+  bio              : "Ph.D. in Computer Science, University of Georgia"
   location         : "Athens, GA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=p8tAM0AAAAAJ"
-  email            : "zl18864@uga.edu"
+  email            : "zhengliangliu487@gmail.com"
   researchgate     : 
   uri              :
   bitbucket        :
