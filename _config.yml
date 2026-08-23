@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhengliang Liu"
-description              : "A Ph.D. student from University of Georgia"
+description              : "Ph.D. in Computer Science"
 repository               : "zl-liu/zl-liu.github.io"
 baseurl                  : ""
 google_scholar_stats_use_cdn : true
@@ -24,7 +24,7 @@ google_scholar_stats_use_cdn : true
 author:
   name             : "Zhengliang Liu"
   avatar           : "/images/avatar.png"
-  bio              : "University of Georgia"
+  bio              : "Computer Scientist | Large Language Models and AI for Healthcare"
   location         : "Athens, GA"
   employer         :
   pubmed           : 
