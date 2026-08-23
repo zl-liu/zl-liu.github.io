@@ -20,7 +20,7 @@ My research interests lie at the intersection of Artificial Intelligence, Large 
 - *May. 2021 -- Sep. 2021*: **Mayo Clinic**, Scottsdale, AZ, **Research Intern**.
 
 # 🎓 Education
-- **University of Georgia**: Ph.D. in Computer Science, GPA: 4.0/4.0, *Jun. 2026 (expected graduation)*
+- **University of Georgia**: Ph.D. in Computer Science, GPA: 4.0/4.0, *May. 2026*
 - **Washington University in St. Louis**: Master of Science in Computer Science, GPA: 3.9/4.0, *2021*
 - **University of Wisconsin, Madison**: Bachelor of Arts in Computer Science, GPA: 3.904/4.0, *2018*
 
