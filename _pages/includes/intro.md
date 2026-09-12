@@ -2,7 +2,7 @@
 
 # Short Bio
 
-Zhengliang Liu received his Ph.D. in Computer Science from the [University of Georgia](https://www.uga.edu/) in May 2026 under the supervision of [Prof. Tianming Liu](https://cobweb.cs.uga.edu/~tliu/). His research lies at the intersection of large language models, multimodal learning, medical imaging, and AI for healthcare. He received his M.S. in Computer Science from Washington University in St. Louis in 2021 and his B.A. in Computer Science from the University of Wisconsin–Madison in 2018. He has published over 90 papers at the top AI and medical imaging jounrals and conferences.
+Zhengliang Liu received his Ph.D. in Computer Science from the [University of Georgia](https://www.uga.edu/) in June 2026 under the supervision of [Prof. Tianming Liu](https://cobweb.cs.uga.edu/~tliu/). His research lies at the intersection of large language models, multimodal learning, medical imaging, and AI for healthcare. He received his M.S. in Computer Science from Washington University in St. Louis in 2021 and his B.A. in Computer Science from the University of Wisconsin–Madison in 2018. He has published over 90 papers at the top AI and medical imaging jounrals and conferences.
 
 <!-- Lin Zhao is an Assistant Professor at the [Department of Biomedical Engineering](https://biomedical.njit.edu/), [New Jersey Institute of Technology (NJIT)](https://www.njit.edu/), and the Director of the Machine Intelligence in Medicine and Imaging Lab (MI<sup>2</sup> Lab). He was a Senior Research Scientist at United Imaging Intelligence (UII) America from 2023 to 2025. He received his PhD degree in Computer Science from University of Georgia in 2023 under the supervision of [Prof. Tianming Liu](https://cobweb.cs.uga.edu/~tliu/). During his PhD study, he also interned at Alibaba DAMO Academy in 2022 and United Imaging Intelligence in 2021. He received his Bachelor degree from Northwestern Polytechnical University in 2017. Currently. His recent research interests include Brain-inspired AI, Large Foundation Models, Vision-Language Modeling and their applications in medical imaging. He has published over 50 papers <a href='https://scholar.google.com/citations?user=RxG1Wj8AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Flin-zhao-research%2Flin-zhao-research.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top AI and medical imaging jounrals and conferences.  -->
 
@@ -11,19 +11,19 @@ Zhengliang Liu received his Ph.D. in Computer Science from the [University of Ge
 
 My research interests lie at the intersection of Artificial Intelligence, Large Language Models (LLMs), and Healthcare. I am particularly passionate about Multi-modal Learning, which seeks to synergize diverse data modalities—such as clinical text, medical imaging, and structured electronic health records—to construct holistic and context-aware AI systems. In parallel, I aim to leverage cutting-edge Generative AI techniques to tackle real-world biomedical and clinical challenges, such as model reliability, reasoning under uncertainty, and clinical workflow automation. Another key area of interest is AI for Social Good, particularly in utilizing AI agents to democratize access to high-quality education and healthcare resources. I focus on developing robust, human-centered AI solutions that not only advance technical frontiers but also drive tangible positive impacts on patient outcomes and societal well-being.
 
+# 🎓 Education
+- **University of Georgia**: Ph.D. in Computer Science, GPA: 4.0/4.0, *Jun. 2026*
+- **Washington University in St. Louis**: Master of Science in Computer Science, GPA: 3.9/4.0, *2021*
+- **University of Wisconsin, Madison**: Bachelor of Arts in Computer Science, GPA: 3.904/4.0, *2018*
+
 # 💼 Professional Experience
+- *Jul. 2026 -- Now*: **EZCollegeApp**(GyriQAI, Inc.), Athens, GA, **Co-founder and Chief Operating Officer**
 - *Dec. 2024 -- Oct. 2025*: **Casium**(AI2 Incubator Spin-out), Remote / Seattle, WA, **Founding Applied AI Scientist (Full Time)**.
 - *Sep. 2023 -- Oct. 2024*: **Hippocratic AI**, Palo Alto, CA, **Research Scientist (Full Time)**.
 - *Sep. 2022 -- Sep. 2024*: **Mayo Clinic**, Scottsdale, AZ, **Research Affiliate**.
 - *May. 2023 -- Sep. 2023*: **Harvard Medical School & MGH**, Boston, MA, **Research Associate**.
 - *May. 2022 -- Sep. 2022*: **Mayo Clinic**, Scottsdale, AZ, **Research Intern**.
 - *May. 2021 -- Sep. 2021*: **Mayo Clinic**, Scottsdale, AZ, **Research Intern**.
-
-# 🎓 Education
-- **University of Georgia**: Ph.D. in Computer Science, GPA: 4.0/4.0, *Jun. 2026*
-- **Washington University in St. Louis**: Master of Science in Computer Science, GPA: 3.9/4.0, *2021*
-- **University of Wisconsin, Madison**: Bachelor of Arts in Computer Science, GPA: 3.904/4.0, *2018*
-
 
 <!-- # 🎓 Prospective Student
 <span style="color: red;"> **I am actively seeking self-motivated PhD students and interns.**</span> If you are interested in working with me, please check the details below and feel free to email me at [lin.zhao.1@njit.edu](mailto:lin.zhao.1@njit.edu).
