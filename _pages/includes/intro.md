@@ -12,9 +12,9 @@ Zhengliang Liu received his Ph.D. in Computer Science from the [University of Ge
 My research interests lie at the intersection of Artificial Intelligence, Large Language Models (LLMs), and Healthcare. I am particularly passionate about Multi-modal Learning, which seeks to synergize diverse data modalities—such as clinical text, medical imaging, and structured electronic health records—to construct holistic and context-aware AI systems. In parallel, I aim to leverage cutting-edge Generative AI techniques to tackle real-world biomedical and clinical challenges, such as model reliability, reasoning under uncertainty, and clinical workflow automation. Another key area of interest is AI for Social Good, particularly in utilizing AI agents to democratize access to high-quality education and healthcare resources. I focus on developing robust, human-centered AI solutions that not only advance technical frontiers but also drive tangible positive impacts on patient outcomes and societal well-being.
 
 # 🎓 Education
-- **University of Georgia**: Ph.D. in Computer Science, GPA: 4.0/4.0, *Jun. 2026*
-- **Washington University in St. Louis**: Master of Science in Computer Science, GPA: 3.9/4.0, *2021*
-- **University of Wisconsin, Madison**: Bachelor of Arts in Computer Science, GPA: 3.904/4.0, *2018*
+- **University of Georgia**: Ph.D. in Computer Science, *Jun. 2026*
+- **Washington University in St. Louis**: Master of Science in Computer Science, *2021*
+- **University of Wisconsin, Madison**: Bachelor of Arts in Computer Science, *2018*
 
 # 💼 Professional Experience
 - *Jul. 2026 -- Now*: **EZCollegeApp**(GyriQAI, Inc.), Athens, GA, **Co-founder and Chief Operating Officer**
