@@ -140,8 +140,6 @@
 
 - ``AAPM`` P. Wang*, **Z. Liu*** , Y. Li, J. M. Holmes, P. Shu, L. Zhang, X. Li, Q. Li, S. A. Vora, S. H. Patel, T. T. Sio, T. Liu, and W. Liu. Fine-tuning large language models for radiation oncology, a highly specialized healthcare domain. *AAPM 66th Annual Meeting & Exhibition*, 2024.
 
-- ``ACL`` Y. Liu*, **Z. Liu*** , Z. Wu, J. Ning, H. Sun, S. Xia, Y. Yang, X. Gao, N. Qiang, B. Ge, T. Liu, J. Han, and X. Hu. Brain-Inspired Exploration of Functional Networks and Key Neurons in Large Language Models. *Annual Meeting of the Association for Computational Linguistics*, 2026.
-
 - ``MLMI`` S. Rezayi*, H. Dai*, **Z. Liu*** , Z. Wu, A. Hebbar, A. H. Burns, L. Zhao, D. Zhu, X. Li, Q. Li, W. Liu, S. Li, and T. Liu. ClinicalRadioBERT: Knowledge-Infused Few Shot Learning for Clinical Notes Named Entity Recognition. *Proceedings of the 13th International Workshop on Machine Learning in Medical Imaging*, 2022.
 
 - ``ICML`` Y. Huang, L. Sun, H. Wang, S. Wu, Q. Zhang, Y. Li, C. Gao, Y. Huang, W. Lyu, Y. Zhang, X. Li, H. Sun, **Z. Liu**, Y. Liu, Y. Wang, Z. Zhang, B. Vidgen, B. Kailkhura, C. Xiong, C. Xiao, C. Li, E. P. Xing, F. Huang, H. Liu, H. Ji, H. Wang, H. Zhang, H. Yao, M. Kellis, M. Zitnik, M. Jiang, M. Bansal, J. Zou, J. Pei, J. Liu, J. Gao, J. Han, J. Zhao, J. Tang, J. Wang, J. Vanschoren, J. Mitchell, K. Shu, K. Xu, K. Chang, L. He, L. Huang, M. Backes, N. Z. Gong, P. S. Yu, P. Chen, Q. Gu, R. Xu, R. Ying, S. Ji, S. Jana, T. Chen, T. Liu, T. Zhou, W. Y. Wang, X. Li, X. Zhang, X. Wang, X. Xie, X. Chen, X. Wang, Y. Liu, Y. Ye, Y. Cao, Y. Chen, and Y. Zhao. Trustllm: Trustworthiness in large language models. *Proceedings of the International Conference on Machine Learning*, 2024.
@@ -168,6 +166,7 @@
 
 
 # Pre-prints
+- Y. Liu*, **Z. Liu***, Z. Wu, J. Ning, H. Sun, S. Xia, Y. Yang, X. Gao, N. Qiang, B. Ge, T. Liu, J. Han, and X. Hu. [Brain-Inspired Exploration of Functional Networks and Key Neurons in Large Language Models](https://arxiv.org/abs/2502.20408), arXiv preprint arXiv:2502.20408, 2025. *(Submitted to ACL 2026)*
 - J.Chen, Y.Yang, OM.Muller, L.Zeng, **Z.Liu**, T.Liu, W.Liu. [Age-Dependent Causal Effects of Mandibular Dose on Osteoradionecrosis Risk After Head and Neck Radiotherapy](https://europepmc.org/article/med/41675357), arXiv: 2602.06212 v1-arXiv: 2602.06212 v1, 2026.
 - Y.Li, Z.Wu, Y.Lv, H.Jiang, W.You, **Z.Liu**, D.Zhu, X.Li, Q.Li, T.Liu, L.Zhao. [Thinking with Gaze: Sequential Eye-Tracking as Visual Reasoning Supervision for Medical VLMs](https://arxiv.org/abs/2603.06697), arXiv preprint arXiv:2603.06697, 2026.
 - W.Yang, **Z.Liu**, Y.Li, B.Yan, L.Li, M.He, D.Wojtczak, Y.Zheng, D.Shi. [Empowering locally deployable medical agent via state enhanced logical skills for FHIR-based clinical tasks](https://arxiv.org/abs/2603.06902), arXiv preprint arXiv:2603.06902, 2026.

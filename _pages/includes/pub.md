@@ -14,7 +14,7 @@ This paper introduces PharmacyGPT, an iterative prompt-optimization framework th
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='{{ "/images/arxiv/2502.20408.png" | relative_url }}' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to ACL 2026</div><img src='{{ "/images/arxiv/2502.20408.png" | relative_url }}' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Brain-Inspired Exploration of Functional Networks and Key Neurons in Large Language Models](https://arxiv.org/abs/2502.20408) \\
@@ -96,6 +96,19 @@ This survey covers bioinformatics-specific language models, including their evol
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">npj Digital Medicine 2026</div><img src='{{ "/images/arxiv/2602.06212.png" | relative_url }}' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Causal machine learning for exploring radiation dose effects on mandibular osteoradionecrosis](https://www.nature.com/articles/s41746-026-03072-9) \\
+J. Chen, Y. Yang, O. M. Muller, L. Zeng, **Z. Liu**, T. Liu, R. L. Foote, D. J. Ma, S. H. Patel, Z. Liu, and W. Liu
+
+This study applies causal machine learning (generalized random forests) to 931 head and neck cancer patients to show that mandibular radiation dose parameters causally increase osteoradionecrosis risk, with the strongest dose effects in patients aged 50–60 and minimal effects in those over 70.
+
+[![Static Badge](https://img.shields.io/badge/arxiv-2602.06212-white?style=flat&logo=arxiv)](https://arxiv.org/abs/2602.06212)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Medical Physics 2025</div><img src='{{ "/images/arxiv/2501.17286.jpg" | relative_url }}' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -162,7 +175,7 @@ This preliminary study demonstrates the effectiveness of instruction tuning on r
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2022</div><img src='{{ "/images/selected papers/AgriBERT_ Knowledge_Infused Agricultural Language Models for Matching Food and Nutrition.png" | relative_url }}' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[AgriBERT: Knowledge-Infused Agricultural Language Models for Matching Food and Nutrition](https://www.researchgate.net/profile/Amulya-Yadav-2/publication/362052926_Forecasting_the_Number_of_Tenants_At-Risk-of-Formal_Eviction_A_Machine_Learning_Approach_to_Inform_Public_Policy/links/642eef0320f25554da139319/Forecasting-the-Number-of-Tenants-At-Risk-of-Formal-Eviction-A-Machine-Learning-Approach-to-Inform-Public-Policy.pdf) \\
+[AgriBERT: Knowledge-Infused Agricultural Language Models for Matching Food and Nutrition](https://www.ijcai.org/proceedings/2022/715) \\
 S. Rezayi *, **Z. Liu** *, Z. Wu, C. Dhakal, B. Ge, C. Zhen, T. Liu, and S. Li
 <span style="background-color: #FFF9E6; font-style: italic; border-radius: 2px; font-size: 0.85em; color: #666;">
     (* equal contribution)
@@ -208,7 +221,7 @@ This study utilizes a large-scale gambling game to demonstrate that while icon a
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Meta-radiology IF=18.26</div><img src='{{ "/images/selected papers/1-s2.0-S2950162823000176-gr2.jpg" | relative_url }}' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Summary of ChatGPT-related research and perspective towards the future of large language models](https://www.sciencedirect.com/science/article/pii/S2950162823000176?__cf_chl_tk=9lCFejbbUQWyubIjxmzJWn1JjTdLchNofxxpxPlsS2E-1769171863-1.0.1.1-yNlkF9aYdU5LOs2iGJwRYU4o5ZzwoRl.VZ96eqviwJA) \\
+[Summary of ChatGPT-related research and perspective towards the future of large language models](https://www.sciencedirect.com/science/article/pii/S2950162823000176) \\
 Y. Liu, T. Han, S. Ma, J. Zhang, Y. Yang, J. Tian, H. He, A. Li, M. He, **Z. Liu**, Z. Wu, L. Zhao, D. Zhu, X. Li, N. Qiang, D. Shen, T. Liu, and B. Ge
 
 This paper presents a comprehensive survey of 194 ChatGPT-related studies, providing a detailed analysis of the model's technical foundations (such as RLHF), its diverse applications across domains like medicine and education, and its ethical implications, while outlining future directions for large language model development.
