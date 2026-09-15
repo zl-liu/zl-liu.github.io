@@ -17,7 +17,6 @@ My research interests lie at the intersection of Artificial Intelligence, Large 
 - **University of Wisconsin, Madison**: Bachelor of Arts in Computer Science, *2018*
 
 # 💼 Professional Experience
-- *Jul. 2026 -- Now*: **EZCollegeApp**(GyriQAI, Inc.), Athens, GA, **Co-founder and Chief Operating Officer**
 - *Dec. 2024 -- Oct. 2025*: **Casium**(AI2 Incubator Spin-out), Remote / Seattle, WA, **Founding Applied AI Scientist (Full Time)**.
 - *Sep. 2023 -- Oct. 2024*: **Hippocratic AI**, Palo Alto, CA, **Research Scientist (Full Time)**.
 - *Sep. 2022 -- Sep. 2024*: **Mayo Clinic**, Scottsdale, AZ, **Research Affiliate**.
