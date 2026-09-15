@@ -1,6 +1,117 @@
 
 # 📝 Recent Publications [[more...]]({{ site.baseurl }}/publications/)
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BMC MIDM 2025</div><img src='{{ "/images/arxiv/2307.10432.jpg" | relative_url }}' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[PharmacyGPT: Exploration of Artificial Intelligence for Medication Management in the Intensive Care Unit](https://link.springer.com/article/10.1186/s12911-025-03230-1) \\
+**Z. Liu**, S. Xu, Z. Wu, B. Murray, E. F. Barreto, S. Li, W. Liu, X. Li, T. Liu, and A. Sikora
+
+This paper introduces PharmacyGPT, an iterative prompt-optimization framework that equips LLMs with dynamic, medication-specific context from 1,000 ICU patients to perform clinical pharmacy tasks such as patient clustering by medication regimen, medication regimen generation, and outcome prediction.
+
+[![Static Badge](https://img.shields.io/badge/arxiv-2307.10432-white?style=flat&logo=arxiv)](https://arxiv.org/abs/2307.10432)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='{{ "/images/arxiv/2502.20408.png" | relative_url }}' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Brain-Inspired Exploration of Functional Networks and Key Neurons in Large Language Models](https://arxiv.org/abs/2502.20408) \\
+Y. Liu*, **Z. Liu** *, Z. Wu, J. Ning, H. Sun, S. Xia, Y. Yang, X. Gao, N. Qiang, B. Ge, T. Liu, J. Han, and X. Hu
+<span style="background-color: #FFF9E6; font-style: italic; border-radius: 2px; font-size: 0.85em; color: #666;">
+    (* equal contribution)
+</span>
+
+This paper borrows functional brain network analysis from neuroscience, applying independent component analysis to LLM neuron activations to uncover functional networks inside LLMs, and shows that inhibiting or amplifying these key neurons markedly changes model behavior.
+
+[![Static Badge](https://img.shields.io/badge/arxiv-2502.20408-white?style=flat&logo=arxiv)](https://arxiv.org/abs/2502.20408)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MedIA 2026</div><img src='{{ "/images/arxiv/pdagan-media2026.jpg" | relative_url }}' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Alzheimer's Disease Risk Prediction via Perceptual Deformable Attention Generative Adversarial Network with Large Foundation Models](https://doi.org/10.1016/j.media.2026.104225) \\
+Z. Xing*, **Z. Liu** *, D.-F. Zhang, K. Xie, J. Fang, X.-A. Bi, and T. Liu
+<span style="background-color: #FFF9E6; font-style: italic; border-radius: 2px; font-size: 0.85em; color: #666;">
+    (* equal contribution)
+</span>
+
+This paper proposes PDAT-GAN, which uses large foundation models to construct multi-omics features and a perceptual deformable attention mechanism to simulate Alzheimer's disease progression, enabling robust risk prediction and pathogeny extraction.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BMC MIDM 2026</div><img src='{{ "/images/arxiv/2504.03071.png" | relative_url }}' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[AD-GPT: Large Language Models in Alzheimer's Disease](https://link.springer.com/article/10.1186/s12911-026-03579-x) \\
+Z. Liu, L. Tang, Z. Sun, **Z. Liu**, Y. Lyu, W. Ruan, Y. Xu, L. Shan, J. Shin, X. Chen, D. Zhu, T. Liu, R. Liu, and C. Huang
+
+This paper presents AD-GPT, a domain-specific generative model that integrates genetic and neurobiological data sources to improve retrieval and analysis of Alzheimer's disease-related genes, variants, and brain-region associations.
+
+[![Static Badge](https://img.shields.io/badge/arxiv-2504.03071-white?style=flat&logo=arxiv)](https://arxiv.org/abs/2504.03071)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Meta-Radiology 2026</div><img src='{{ "/images/arxiv/2606.15504.png" | relative_url }}' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Toward Vibe Medicine: A Self-Evolving Multi-Agent Framework for Clinical Decision Support](https://www.sciencedirect.com/science/article/pii/S2950162826000196) \\
+Q. Zhang, Y. Ren, S. Qin, X. Zhang, L. Zhang, J. Huang, **Z. Liu**, C. Liu, H. Feng, J. Chen, Y. Ding, W. You, H. Jiang, Y. Pan, Y. Zhou, J. Chen, L. Chen, W. Liu, T. Liu, Z. Zhao, and L. Zhang
+
+This paper introduces VIBEMed, a multi-agent clinical decision support framework with diagnostic, therapeutic, and evolution-manager agents, a three-level self-evolution mechanism, and an architecture-level safety sandbox for reliable end-to-end decisions.
+
+[![Static Badge](https://img.shields.io/badge/arxiv-2606.15504-white?style=flat&logo=arxiv)](https://arxiv.org/abs/2606.15504)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">J. Manuf. Syst. 2026</div><img src='{{ "/images/arxiv/2410.21418.png" | relative_url }}' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Large Language Models for Manufacturing](https://www.sciencedirect.com/science/article/abs/pii/S0278612526000439) \\
+Y. Li, H. Zhao, H. Jiang, Y. Pan, **Z. Liu**, Z. Wu, P. Shu, J. Tian, T. Yang, S. Xu, Y. Lyu, P. Blenk, J. Pence, J. Rupram, E. Banu, N. Liu, L. Wang, W. Song, X. Zhai, K. Song, D. Zhu, B. Li, X. Wang, and T. Liu
+
+This paper surveys how LLMs can automate and enhance manufacturing, from product design and development to quality control, supply chain optimization, and talent management.
+
+[![Static Badge](https://img.shields.io/badge/arxiv-2410.21418-white?style=flat&logo=arxiv)](https://arxiv.org/abs/2410.21418)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Quantitative Biology 2026</div><img src='{{ "/images/arxiv/2501.06271.png" | relative_url }}' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Large Language Models for Bioinformatics](https://onlinelibrary.wiley.com/doi/abs/10.1002/qub2.70014) \\
+W. Ruan, Y. Lyu, J. Zhang, J. Cai, P. Shu, ..., **Z. Liu**, ..., D. Zhu, and T. Liu
+
+This survey covers bioinformatics-specific language models, including their evolution, training methods, datasets, and evaluation, and their applications in disease diagnosis, drug discovery, and vaccine development.
+
+[![Static Badge](https://img.shields.io/badge/arxiv-2501.06271-white?style=flat&logo=arxiv)](https://arxiv.org/abs/2501.06271)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Medical Physics 2025</div><img src='{{ "/images/arxiv/2501.17286.jpg" | relative_url }}' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Fine-tuning open-source large language models to improve their performance on radiation oncology tasks](https://doi.org/10.1002/mp.17985) \\
+P. Wang*, **Z. Liu** *, Y. Li, J. Holmes, P. Shu, L. Zhang, X. Li, Q. Li, B. S. Laughlin, D. S. Toesca, C. E. Vargas, S. A. Vora, S. H. Patel, T. T. Sio, T. Liu, and W. Liu
+<span style="background-color: #FFF9E6; font-style: italic; border-radius: 2px; font-size: 0.85em; color: #666;">
+    (* equal contribution)
+</span>
+
+This study fine-tunes LLaMA2-7B and Mistral-7B with LoRA on thousands of annotated patient cases, significantly improving treatment regimen generation, treatment modality selection, and ICD-10 code prediction, with over 60% of generated regimens rated clinically acceptable.
+
+[![Static Badge](https://img.shields.io/badge/arxiv-2501.17286-white?style=flat&logo=arxiv)](https://arxiv.org/abs/2501.17286)
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIED 2023</div><img src='{{ "/images/selected papers/Context Matters_ A Strategy to Pre_train.png" | relative_url }}' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -149,7 +260,7 @@ This study introduces BiomedGPT, a unified and open-source foundation model pre-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TPAMI IF=21.9</div><img src='{{ "/images/selected papers/Structure mapping generative adversarial network for multi_view information mapping pattern mining.png" | relative_url }}' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Structure mapping generative adversarial network for multi-view information mapping pattern mining](https://www.sciencedirect.com/science/article/pii/S2950162825000219) \
+[Structure mapping generative adversarial network for multi-view information mapping pattern mining](https://ieeexplore.ieee.org/document/10310125/) \\
 X. A. Bi, Y. Huang, Z. Yang, K. Chen, Z. Xing, L. Xu, X. Li, **Z. Liu**, and T. Liu
 
 This paper proposes a Structure Mapping Generative Adversarial Network (SM-GAN), a framework that models the hierarchical interactions between different data views as a structural mapping process from micro- to macro-networks, effectively capturing common patterns to improve performance in multi-view learning tasks such as classification and evolution prediction.

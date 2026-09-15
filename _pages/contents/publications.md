@@ -7,13 +7,15 @@
 
 - ``Meta-Radiology`` Q.Zhang, Y.Ren, S.Qin, X.Zhang, L.Zhang, J.Huang, **Z Liu**, C Liu, H Feng, J.Chen, Y.Ding, W.You, H.Jiang, Y.Pan, Y.Zhou, J.Chen, L.Chen, W.Liu, T.Liu, Z.Zhao, L.Zhang. Toward Vibe Medicine: A Self-Evolving Multi-Agent Framework for Clinical Decision Support. *Meta-Radiology*, 2026.
 
-- ``BioMed Central`` **Z.Liu**, L.Tang, Z.Sun, Z.Liu, Y.Lyu, W.Ruan, Y.Xu, L.Shan, J.Shin, X.Chen, D.Zhu, T.Liu, R.Liu, and C.Huang. AD-GPT: Large language models in Alzheimer’s disease. *BioMed Central*, 2026.
+- ``BioMed Central`` Z.Liu, L.Tang, Z.Sun, **Z.Liu**, Y.Lyu, W.Ruan, Y.Xu, L.Shan, J.Shin, X.Chen, D.Zhu, T.Liu, R.Liu, and C.Huang. AD-GPT: Large language models in Alzheimer’s disease. *BioMed Central*, 2026.
 
 - ``Journal of Manufacturing Systems 86`` Y. Li, H. Zhao, H. Jiang, Y. Pan, **Z. Liu**, Z. Wu, P. Shu, J. Tian, T. Yang, S. Xu, Y. Lyu, P. Blenk, J. Pence, J. Rupram, E. Banu, N. Liu, L. Wang, W. Song, X. Zhai, K. Song, D. Zhu, B. Li, X. Wang, and T. Liu. Large language models for manufacturing. *Journal of Manufacturing Systems 86*, 2026.
 
 - ``Medical Image Analysis`` Z. Xing*, **Z. Liu***, D.-F. Zhang, K. Xie, J. Fang, X.-A. Bi, and T. Liu. Alzheimer's Disease Risk Prediction via Perceptual Deformable Attention Generative Adversarial Network with Large Foundation Models. *Medical Image Analysis*, 2026.
 
 - ``npj Digital Medicine`` J. Chen, Y. Yang, O. M. Muller, L. Zeng, **Z. Liu**, T. Liu, R. L. Foote, D. J. Ma, S. H. Patel, Z. Liu, and W. Liu. Causal machine learning for exploring radiation dose effects on mandibular osteoradionecrosis. *npj Digital Medicine*, 2026.
+
+- ``BMC Medical Informatics and Decision Making`` **Z. Liu**, S. Xu, Z. Wu, B. Murray, E. F. Barreto, S. Li, W. Liu, X. Li, T. Liu, and A. Sikora. PharmacyGPT: exploration of artificial intelligence for medication management in the intensive care unit. *BMC Medical Informatics and Decision Making*, 2025.
 
 - ``Journal of Central South University. Medical Sciences`` **Z. Liu**, M. He, Z. Jiang, Z. Wu, H. Dai, L. Zhang, S. Luo, T. Han, X. Li, X. Jiang, D. Zhu, X. Cai, B. Ge, W. Liu, J. Liu, D. Shen, and T. Liu. Survey on natural language processing in medical image analysis. *Journal of Central South University. Medical Sciences*, 2022.
 
@@ -46,8 +48,6 @@
 - ``JMIR Medical Education`` W. Liao*, **Z. Liu*** , H. Dai, S. Xu, Z. Wu, Y. Zhang, X. Huang, D. Zhu, H. Cai, Q. Li, T. Liu, and X. Li. Differentiating ChatGPT-generated and human-written medical texts: quantitative study. *JMIR Medical Education*, 2023.
 
 - ``Medical Physics`` P. Wang*, **Z. Liu*** , Y. Li, J. Holmes, P. Shu, L. Zhang, X. Li, Q. Li, B. S. Laughlin, D. S. Toesca, C. E. Vargas, S. A. Vora, S. H. Patel, T. T. Sio, T. Liu, W. Liu. Fine‐tuning open‐source large language models to improve their performance on radiation oncology tasks: A feasibility study to investigate their potential clinical applications. *Medical Physics*, 2025.
-
-- ``Medical Image Analysis`` Z. Xing*, **Z. Liu*** , D.-F. Zhang, K. Xie, J. Fang, X.-A. Bi, and T. Liu. Alzheimer's Disease Risk Prediction via Perceptual Deformable Attention Generative Adversarial Network with Large Foundation Models. *Medical Image Analysis*, 2025.
 
 - ``Nature Medicine`` C. Yan, J. Bi, Y. Luo, Y. Ma, **Z. Liu**, Z. Wu, L. Zhao, S. Xu, L. Wei, S. Huang, H. Wang, Y. Pan, B. Liao, Y. Huang, J. Xia, M. He, Z. Wang, Z. Lin, C. Slaughter, H. Zhu, Y. Zhang, Q. Qu, X. Zhang, G. Li, S. Ju, J. Huang, S. S. Zhang, D. Zhou, R. J. Fu, L. Sun, P. S. Yu, W. Liu, J. Gao, X. Li, D. Zhu, T. Liu, and D. Shen. A generalist vision–language foundation model for diverse biomedical tasks. *Nature Medicine*, 2024.
 
@@ -110,8 +110,6 @@
 - ``Medical Physics`` L. Zhang, J. M. Holmes, **Z. Liu**, S. A. Vora, T. T. Sio, C. E. Vargas, N. Y. Yu, S. R. Keole, S. E. Schild, M. Bues, S. Li, T. Liu, J. Shen, W. W. Wong, and W. Liu. Beam mask and sliding window‐facilitated deep learning‐based accurate and efficient dose prediction for pencil beam scanning proton therapy. *Medical Physics*, 2024.
 
 - ``Biotechnology Advances`` X. Gong, J. Zhang, Q. Gan, Y. Teng, J. Hou, Y. Lyu, **Z. Liu**, Z. Wu, R. Dai, Y. Zou, X. Wang, D. Zhu, H. Zhu, T. Liu, and Y. Yan. Advancing microbial production through artificial intelligence-aided biology. *Biotechnology Advances*, 2024.
-
-- ``Quantitative Biology`` Ruan, W., Lyu, Y., Zhang, J., Cai, J., Shu, P., Ge, Y., Lu, Y., Gao, S., Wang, Y., Wang, P., Zhao, L., Wang, T., Liu, Y., Fang, L., **Liu, Z.**, Li, Y., Wu, Z., Chen, J., Jiang, H., Pan, Y., Yang, Z., Chen, J., Liang, S., Zhang, W., Ma, T., Dou, Y., Zhang, J., Gong, X., Gan, Q., Zou, Y., Chen, Z., Qian, Y., Yu, S., Lu, J., Song, K., Wang, X., Sikora, A., Li, G., Li, X., Li, Q., Wang, Y., Zhang, L., Abate, Y., He, L., Zhong, W., Liu, R., Huang, C., Liu, W., Shen, Y., Ma, P., Zhu, H., Yan, Y., Zhu, D., Liu, T. Large language models for bioinformatics. *Quantitative Biology*, 2026.
 
 - ``Artificial Intelligence Review`` Fang, L., Yu, X., Cai, J., Chen, Y., Wu, S., **Liu, Z.**, Yang, Z., Lu, H., Gong, X., Liu, Y., Ma, T., Ruan, W., Abbasi, A., Zhang, J., Wang, T., Latif, E., Liu, W., Zhang, W., Kolouri, S., Zhai, X., Zhu, D., Zhong, W., Liu, T., Ma, P. Knowledge distillation and dataset distillation of large language models: Emerging trends, challenges, and future directions. *Artificial Intelligence Review*, 2026.
 
