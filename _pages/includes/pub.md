@@ -9,7 +9,7 @@
 
 This paper introduces PharmacyGPT, an iterative prompt-optimization framework that equips LLMs with dynamic, medication-specific context from 1,000 ICU patients to perform clinical pharmacy tasks such as patient clustering by medication regimen, medication regimen generation, and outcome prediction.
 
-[![Static Badge](https://img.shields.io/badge/arxiv-2307.10432-white?style=flat&logo=arxiv)](https://arxiv.org/abs/2307.10432)
+[![Paper](https://img.shields.io/badge/Paper-BMC%20Medical%20Informatics%20and%20Decision%20Making-blue?style=flat)](https://link.springer.com/article/10.1186/s12911-025-03230-1)
 
 </div>
 </div>
@@ -41,6 +41,8 @@ Z. Xing*, **Z. Liu** *, D.-F. Zhang, K. Xie, J. Fang, X.-A. Bi, and T. Liu
 
 This paper proposes PDAT-GAN, which uses large foundation models to construct multi-omics features and a perceptual deformable attention mechanism to simulate Alzheimer's disease progression, enabling robust risk prediction and pathogeny extraction.
 
+[![Paper](https://img.shields.io/badge/Paper-Medical%20Image%20Analysis-blue?style=flat)](https://doi.org/10.1016/j.media.2026.104225)
+
 </div>
 </div>
 
@@ -52,7 +54,7 @@ Z. Liu, L. Tang, Z. Sun, **Z. Liu**, Y. Lyu, W. Ruan, Y. Xu, L. Shan, J. Shin, X
 
 This paper presents AD-GPT, a domain-specific generative model that integrates genetic and neurobiological data sources to improve retrieval and analysis of Alzheimer's disease-related genes, variants, and brain-region associations.
 
-[![Static Badge](https://img.shields.io/badge/arxiv-2504.03071-white?style=flat&logo=arxiv)](https://arxiv.org/abs/2504.03071)
+[![Paper](https://img.shields.io/badge/Paper-BMC%20Medical%20Informatics%20and%20Decision%20Making-blue?style=flat)](https://link.springer.com/article/10.1186/s12911-026-03579-x)
 
 </div>
 </div>
@@ -65,7 +67,7 @@ Q. Zhang, Y. Ren, S. Qin, X. Zhang, L. Zhang, J. Huang, **Z. Liu**, C. Liu, H. F
 
 This paper introduces VIBEMed, a multi-agent clinical decision support framework with diagnostic, therapeutic, and evolution-manager agents, a three-level self-evolution mechanism, and an architecture-level safety sandbox for reliable end-to-end decisions.
 
-[![Static Badge](https://img.shields.io/badge/arxiv-2606.15504-white?style=flat&logo=arxiv)](https://arxiv.org/abs/2606.15504)
+[![Paper](https://img.shields.io/badge/Paper-Meta--Radiology-blue?style=flat)](https://www.sciencedirect.com/science/article/pii/S2950162826000196)
 
 </div>
 </div>
@@ -78,7 +80,7 @@ Y. Li, H. Zhao, H. Jiang, Y. Pan, **Z. Liu**, Z. Wu, P. Shu, J. Tian, T. Yang, S
 
 This paper surveys how LLMs can automate and enhance manufacturing, from product design and development to quality control, supply chain optimization, and talent management.
 
-[![Static Badge](https://img.shields.io/badge/arxiv-2410.21418-white?style=flat&logo=arxiv)](https://arxiv.org/abs/2410.21418)
+[![Paper](https://img.shields.io/badge/Paper-Journal%20of%20Manufacturing%20Systems-blue?style=flat)](https://www.sciencedirect.com/science/article/abs/pii/S0278612526000439)
 
 </div>
 </div>
@@ -91,7 +93,7 @@ W. Ruan, Y. Lyu, J. Zhang, J. Cai, P. Shu, ..., **Z. Liu**, ..., D. Zhu, and T. 
 
 This survey covers bioinformatics-specific language models, including their evolution, training methods, datasets, and evaluation, and their applications in disease diagnosis, drug discovery, and vaccine development.
 
-[![Static Badge](https://img.shields.io/badge/arxiv-2501.06271-white?style=flat&logo=arxiv)](https://arxiv.org/abs/2501.06271)
+[![Paper](https://img.shields.io/badge/Paper-Quantitative%20Biology-blue?style=flat)](https://onlinelibrary.wiley.com/doi/abs/10.1002/qub2.70014)
 
 </div>
 </div>
@@ -104,7 +106,7 @@ J. Chen, Y. Yang, O. M. Muller, L. Zeng, **Z. Liu**, T. Liu, R. L. Foote, D. J. 
 
 This study applies causal machine learning (generalized random forests) to 931 head and neck cancer patients to show that mandibular radiation dose parameters causally increase osteoradionecrosis risk, with the strongest dose effects in patients aged 50–60 and minimal effects in those over 70.
 
-[![Static Badge](https://img.shields.io/badge/arxiv-2602.06212-white?style=flat&logo=arxiv)](https://arxiv.org/abs/2602.06212)
+[![Paper](https://img.shields.io/badge/Paper-npj%20Digital%20Medicine-blue?style=flat)](https://www.nature.com/articles/s41746-026-03072-9)
 
 </div>
 </div>
@@ -120,7 +122,7 @@ P. Wang*, **Z. Liu** *, Y. Li, J. Holmes, P. Shu, L. Zhang, X. Li, Q. Li, B. S. 
 
 This study fine-tunes LLaMA2-7B and Mistral-7B with LoRA on thousands of annotated patient cases, significantly improving treatment regimen generation, treatment modality selection, and ICD-10 code prediction, with over 60% of generated regimens rated clinically acceptable.
 
-[![Static Badge](https://img.shields.io/badge/arxiv-2501.17286-white?style=flat&logo=arxiv)](https://arxiv.org/abs/2501.17286)
+[![Paper](https://img.shields.io/badge/Paper-Medical%20Physics-blue?style=flat)](https://doi.org/10.1002/mp.17985)
 
 </div>
 </div>
@@ -134,7 +136,7 @@ This study fine-tunes LLaMA2-7B and Mistral-7B with LoRA on thousands of annotat
 
 This study proposes a domain-specific pre-training strategy that significantly improves the automatic scoring of student science responses by continually training BERT models on specialized educational corpora (such as student answers and journal articles) to better capture the unique linguistic patterns of student scientific argumentation.
 
-[![Static Badge](https://img.shields.io/badge/arxiv-2301.12031-white?style=flat&logo=arxiv)](https://arxiv.org/abs/2301.12031)
+[![Paper](https://img.shields.io/badge/Paper-AIED%202023-blue?style=flat)](https://link.springer.com/chapter/10.1007/978-3-031-36336-8_103)
 
 </div>
 </div>
@@ -169,6 +171,8 @@ Xiaoran Zhang, Eric Z. Chen, **Lin Zhao**, Xiao Chen, Yikang Liu, Boris Maihe, J
 
 This preliminary study demonstrates the effectiveness of instruction tuning on radiological data to create a privacy-compliant, domain-specific large language model that outperforms general-purpose models (such as StableLM and LLaMA) in specialized tasks like radiological diagnosis and report generation.
 
+[![Paper](https://img.shields.io/badge/Paper-MLMI%202023-blue?style=flat)](https://link.springer.com/chapter/10.1007/978-3-031-45673-2_46)
+
 </div>
 </div>
 
@@ -182,6 +186,8 @@ S. Rezayi *, **Z. Liu** *, Z. Wu, C. Dhakal, B. Ge, C. Zhen, T. Liu, and S. Li
 </span>
 
 This research presents AgriBERT, a specialized language model pre-trained on agricultural text and enhanced with knowledge infusion from food ontologies, designed to automate and significantly improve the accuracy of mapping unstructured food descriptions to standard nutritional databases.
+
+[![Paper](https://img.shields.io/badge/Paper-IJCAI%202022-blue?style=flat)](https://www.ijcai.org/proceedings/2022/715)
 
 </div>
 </div>
@@ -197,7 +203,7 @@ W. Liao*, **Z. Liu** *, Y. Zhang, X. Huang, F. Qi, S. Ding, H. Ren, Z. Wu, H. Da
 
 This paper proposes a coarse-to-fine domain adaptation framework that leverages distant supervision and an iterative training strategy to efficiently construct specialized knowledge graphs (such as for oncology) from general domain data without requiring manual annotation.
 
-[![Static Badge](https://img.shields.io/badge/arxiv-2211.02849-white?style=flat&logo=arxiv)](https://arxiv.org/abs/2211.02849)
+[![Paper](https://img.shields.io/badge/Paper-IEEE%20BIBM%202023-blue?style=flat)](https://ieeexplore.ieee.org/abstract/document/10385649)
 
 </div>
 </div>
@@ -213,7 +219,7 @@ M. Bancilhon*, **Z. Liu** *, and A. Ottley
 
 This study utilizes a large-scale gambling game to demonstrate that while icon arrays encourage economically rational decision-making, area-proportioned designs like circles and triangles significantly bias users towards risky behavior (gambling) even when it is not the optimal choice.
 
-[![Static Badge](https://img.shields.io/badge/arxiv-2010.14069-white?style=flat&logo=arxiv)](https://arxiv.org/abs/2010.14069)
+[![Paper](https://img.shields.io/badge/Paper-IEEE%20VIS%202020-blue?style=flat)](https://ieeexplore.ieee.org/abstract/document/9331315)
 
 </div>
 </div>
@@ -226,7 +232,7 @@ Y. Liu, T. Han, S. Ma, J. Zhang, Y. Yang, J. Tian, H. He, A. Li, M. He, **Z. Liu
 
 This paper presents a comprehensive survey of 194 ChatGPT-related studies, providing a detailed analysis of the model's technical foundations (such as RLHF), its diverse applications across domains like medicine and education, and its ethical implications, while outlining future directions for large language model development.
 
-[![Static Badge](https://img.shields.io/badge/arxiv-2304.01852-white?style=flat&logo=arxiv)](https://arxiv.org/abs/2304.01852)
+[![Paper](https://img.shields.io/badge/Paper-Meta--Radiology-blue?style=flat)](https://www.sciencedirect.com/science/article/pii/S2950162823000176)
 [![Static Badge](https://img.shields.io/badge/Citations-1514-Blue?style=flat&logo=Google%20Scholar)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=p8tAM0AAAAAJ&citation_for_view=p8tAM0AAAAAJ:ULOm3_A8WrAC)
 
 </div>
@@ -243,7 +249,7 @@ H. Dai*, **Z. Liu** *, W. Liao, X. Huang, Y. Cao, Z. Wu, L. Zhao, S. Xu, W. Liu,
 
 This paper introduces AugGPT, a data augmentation framework that utilizes ChatGPT to rephrase original training data into semantically consistent but stylistically diverse samples, significantly boosting model performance and robustness in few-shot text classification tasks.
 
-[![Static Badge](https://img.shields.io/badge/arxiv-2302.13007-white?style=flat&logo=arxiv)](https://arxiv.org/abs/2302.13007)
+[![Paper](https://img.shields.io/badge/Paper-IEEE%20Transactions%20on%20Big%20Data-blue?style=flat)](https://ieeexplore.ieee.org/abstract/document/10858342/)
 
 </div>
 </div>
@@ -256,6 +262,8 @@ This paper introduces AugGPT, a data augmentation framework that utilizes ChatGP
 
 This paper presents Radiology-GPT, a domain-specific large language model developed via instruction tuning on radiology reports, which achieves superior performance in diagnostic reasoning and report generation compared to general-purpose models while ensuring data privacy for clinical deployment.
 
+[![Paper](https://img.shields.io/badge/Paper-Meta--Radiology-blue?style=flat)](https://www.sciencedirect.com/science/article/pii/S2950162825000219)
+
 </div>
 </div>
 
@@ -263,9 +271,11 @@ This paper presents Radiology-GPT, a domain-specific large language model develo
 <div class='paper-box-text' markdown="1">
 
 [A generalist vision–language foundation model for diverse biomedical tasks](https://www.nature.com/articles/s41591-024-03185-2) \\
-C. Yan, J. Bi, Y. Luo, Y. Ma, **Z. Liu**, Z. Wu, L. Zhao, S. Xu, L. Wei, S. Huang, H. Wang, Y. Pan, B. Liao, Y. Huang, J. Xia, M. He, Z. Wang, Z. Lin, C. Slaughter, H. Zhu, Y. Zhang, Q. Qu, X. Zhang, G. Li, S. Ju, J. Huang, S. S. Zhang, D. Zhou, R. J. Fu, L. Sun, P. S. Yu, W. Liu, J. Gao, X. Li, D. Zhu, T. Liu, and D. Shen
+K. Zhang, R. Zhou, E. Adhikarla, Z. Yan, Y. Liu, J. Yu, **Z. Liu**, X. Chen, B. D. Davison, H. Ren, J. Huang, C. Chen, Y. Zhou, S. Fu, W. Liu, T. Liu, X. Li, Y. Chen, L. He, J. Zou, Q. Li, H. Liu, and L. Sun
 
 This study introduces BiomedGPT, a unified and open-source foundation model pre-trained on diverse multi-modal biomedical data (including 2D/3D images and text), which demonstrates that a single generalist model can effectively transfer knowledge across varying domains to perform a wide range of tasks such as image classification, captioning, and visual question answering.
+
+[![Paper](https://img.shields.io/badge/Paper-Nature%20Medicine-blue?style=flat)](https://www.nature.com/articles/s41591-024-03185-2)
 
 </div>
 </div>
@@ -277,6 +287,8 @@ This study introduces BiomedGPT, a unified and open-source foundation model pre-
 X. A. Bi, Y. Huang, Z. Yang, K. Chen, Z. Xing, L. Xu, X. Li, **Z. Liu**, and T. Liu
 
 This paper proposes a Structure Mapping Generative Adversarial Network (SM-GAN), a framework that models the hierarchical interactions between different data views as a structural mapping process from micro- to macro-networks, effectively capturing common patterns to improve performance in multi-view learning tasks such as classification and evolution prediction.
+
+[![Paper](https://img.shields.io/badge/Paper-IEEE%20TPAMI-blue?style=flat)](https://ieeexplore.ieee.org/document/10310125/)
 
 </div>
 </div>
